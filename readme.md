@@ -43,6 +43,8 @@ Each festival is stored in the following format:
 }
 ```
 
+- Date format : ```YYYY-MM-DD``` (if no ```DD``` then the date is not decided)
+
 ## Usage
 
 You can directly fetch the JSON file in your project:
