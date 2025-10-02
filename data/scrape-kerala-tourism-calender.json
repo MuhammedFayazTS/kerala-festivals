@@ -1,0 +1,158 @@
+{
+  "festivals": [
+    {
+      "name": "Navarathri Sangeetholsavam",
+      "location": "Navarathri Mandapam, Thiruvananthapuram",
+      "startDate": "2025-09-22",
+      "endDate": "2025-10-02",
+      "category": "Music and Dance Festival"
+    },
+    {
+      "name": "Panachikkadu Festival",
+      "location": "Panachikkadu Saraswati Temple, Kottayam",
+      "startDate": "2025-09-22",
+      "endDate": "2025-10-02",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Navarathri Festival",
+      "location": "All over Kerala",
+      "startDate": "2025-09-22",
+      "endDate": "2025-10-02",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Piravom Boat Race",
+      "location": "Muvattupuzha River, Piravom, Ernakulam",
+      "startDate": "2025-10-04",
+      "endDate": "2025-10-04",
+      "category": "Boat Races"
+    },
+    {
+      "name": "Marine Drive Boat Race",
+      "location": "Marine Drive, Kochi, Ernakulam",
+      "startDate": "2025-10-11",
+      "endDate": "2025-10-11",
+      "category": "Boat Races"
+    },
+    {
+      "name": "Koratty Muthy Feast",
+      "location": "St. Mary’s Forane Church, Thrissur",
+      "startDate": "2025-10-12",
+      "endDate": "2025-10-12",
+      "category": "Feasts / Perunnal"
+    },
+    {
+      "name": "Ayilyam Festival at Vettikode",
+      "location": "Sree Nagaraja Swami Temple, Alappuzha",
+      "startDate": "2025-10-16",
+      "endDate": "2025-10-16",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Alpashi Utsavam",
+      "location": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
+      "startDate": "2025-10-21",
+      "endDate": "2025-10-30",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Kottappuram Boat Race",
+      "location": "Kottappuram, Thrissur",
+      "startDate": "2025-10-25",
+      "endDate": "2025-10-25",
+      "category": "Boat Races"
+    },
+    {
+      "name": "Parumala Perunnal",
+      "location": "Parumala Church, Pathanamthitta",
+      "startDate": "2025-11-02",
+      "endDate": "2025-11-02",
+      "category": "Feasts / Perunnal"
+    },
+    {
+      "name": "Revathi Pattathanam",
+      "location": "Tali Mahadeva Temple, Kozhikode",
+      "startDate": "2025-11-04",
+      "endDate": "2025-11-09",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Karuvatta Boat Race",
+      "location": "Thottappally Spillway, Alappuzha",
+      "startDate": "2025-11-08",
+      "endDate": "2025-11-08",
+      "category": "Boat Races"
+    },
+    {
+      "name": "Mannarasala Ayilyam",
+      "location": "Sree Nagaraja Temple, Mannarasala, Alappuzha",
+      "startDate": "2025-11-12",
+      "endDate": "2025-11-12",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Vettucaud Feast",
+      "location": "Madre-de-Deus Church, Thiruvananthapuram",
+      "startDate": "2025-11-14",
+      "endDate": "2025-11-23",
+      "category": "Feasts / Perunnal"
+    },
+    {
+      "name": "Kalpathi Ratholsavam",
+      "location": "Sree Viswanatha Swamy Temple, Palakkad",
+      "startDate": "2025-11-14",
+      "endDate": "2025-11-16",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Guruvayur Ekadasi",
+      "location": "Sri Krishna Temple, Guruvayur, Thrissur",
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-01",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Puthari Thiruvappana",
+      "location": "Sri Muthappan Temple, Parassinikadavu, Kannur",
+      "startDate": "2025-12-02",
+      "endDate": "2025-12-02",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "President’s Trophy Boat Race",
+      "location": "Ashtamudi Backwaters, Kollam",
+      "startDate": "2025-12-06",
+      "endDate": "2025-12-06",
+      "category": "Boat Races"
+    },
+    {
+      "name": "Vaikathashtami",
+      "location": "Vaikom Mahadeva Temple, Kottayam",
+      "startDate": "2025-12-12",
+      "endDate": "2025-12-12",
+      "category": "Traditional Festivals"
+    },
+    {
+      "name": "Kochi Muziris Biennale",
+      "location": "Fort Kochi, Ernakulam",
+      "startDate": "2025-12-12",
+      "endDate": "2026-03-31",
+      "category": "Other Events"
+    },
+    {
+      "name": "Niranam Valiyapally Perunnal",
+      "location": "St. Mary’s Church, Pathanamthitta",
+      "startDate": "2025-12-21",
+      "endDate": "2025-12-21",
+      "category": "Feasts / Perunnal"
+    },
+    {
+      "name": "Christmas",
+      "location": "All over Kerala",
+      "startDate": "2025-12-25",
+      "endDate": "2025-12-25",
+      "category": "Traditional Festivals"
+    }
+  ]
+}

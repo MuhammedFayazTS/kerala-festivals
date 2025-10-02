@@ -1,0 +1,93 @@
+{
+  "festivals": [
+    {
+      "id": 1,
+      "name": "Thrissur Pooram",
+      "malayalamName": "ത്രിശ്ശൂർ പൂരം",
+      "startDate": "2025-04-23",
+      "endDate": "2025-04-23",
+      "malayalamDate": "Medam 10, 1200",
+      "isMajor": true,
+      "location": {
+        "district": "Thrissur",
+        "place": "Vadakkunnathan Temple, Thrissur",
+        "coordinates": {
+          "latitude": 10.5276,
+          "longitude": 76.2144
+        }
+      },
+      "description": "One of the biggest temple festivals in Kerala, featuring decorated elephants, percussion ensembles, and fireworks.",
+      "images": [
+        "https://example.com/thrissur-pooram1.jpg",
+        "https://example.com/thrissur-pooram2.jpg"
+      ],
+      "tags": ["Temple Festival", "Pooram", "Cultural"]
+    },
+    {
+      "id": 2,
+      "name": "Nehru Trophy Boat Race",
+      "malayalamName": "നെഹ്റു ട്രോഫി വള്ളംകളി",
+      "startDate": "2025-08-09",
+      "endDate": "2025-08-09",
+      "malayalamDate": "Chingam 24, 1201",
+      "isMajor": true,
+      "location": {
+        "district": "Alappuzha",
+        "place": "Punnamada Lake, Alappuzha",
+        "coordinates": {
+          "latitude": 9.4981,
+          "longitude": 76.3388
+        }
+      },
+      "description": "The most famous snake boat race in Kerala, attracting teams and tourists from all over the world.",
+      "images": [
+        "https://example.com/nehru-boat-race.jpg"
+      ],
+      "tags": ["Boat Race", "Sports", "Cultural"]
+    },
+    {
+      "id": 3,
+      "name": "Attukal Pongala",
+      "malayalamName": "അറ്റുകാൽ പൊങ്കാല",
+      "startDate": "2025-03-12",
+      "endDate": "2025-03-12",
+      "malayalamDate": "Kumbham 27, 1200",
+      "isMajor": true,
+      "location": {
+        "district": "Thiruvananthapuram",
+        "place": "Attukal Bhagavathy Temple",
+        "coordinates": {
+          "latitude": 8.4824,
+          "longitude": 76.9432
+        }
+      },
+      "description": "Women gather to prepare the ritual offering of Pongala in one of the largest congregations of women in the world.",
+      "images": [
+        "https://example.com/attukal-pongala.jpg"
+      ],
+      "tags": ["Temple Festival", "Women", "Cultural"]
+    },
+    {
+      "id": 4,
+      "name": "Aranmula Vallasadya",
+      "malayalamName": "ആറന്മുള വള്ളസദ്യ",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-15",
+      "malayalamDate": "Chingam 30, 1201",
+      "isMajor": false,
+      "location": {
+        "district": "Pathanamthitta",
+        "place": "Aranmula Parthasarathy Temple",
+        "coordinates": {
+          "latitude": 9.3311,
+          "longitude": 76.6970
+        }
+      },
+      "description": "A grand feast offered to oarsmen of snake boats at the Aranmula temple.",
+      "images": [
+        "https://example.com/aranmula-vallasadya.jpg"
+      ],
+      "tags": ["Feast", "Temple Festival", "Cultural"]
+    }
+  ]
+}
