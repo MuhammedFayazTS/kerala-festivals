@@ -75,17 +75,18 @@ Later, the raw JSON was formatted and cleaned with ChatGPT.
 Geographical coordinates were then automatically added using:
 
 [**fill_coordinates.py**](./fill_coordinates.py)
-
+- add coordinates for specific locations
 remaining empty coordinates where added manually.
 
 [**update_festival_coordinates.py**](./update_festival_coordinates.py)
-- used to replace the coordinates in festivals.json
+- replace the coordinates in festivals.json for each festival
 
 ## Disclaimer
 
 > In Kerala, festival dates are decided in accordance with the Malayalam calendar and the local traditions and customs.
 > We have given the festival dates based on these. But there can be changes as per the customs and rituals associated with each place of worship.
 > As such, these should be considered **indicative only**.
+> Currently the data set is not filled with enough data
 
 ## Contributing
 
