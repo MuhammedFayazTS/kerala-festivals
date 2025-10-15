@@ -43,7 +43,7 @@ Each festival is stored in the following format:
 }
 ```
 
-- Date format : ```YYYY-MM-DD``` (if no ```DD``` then the date is not decided)
+- Date format : `YYYY-MM-DD` (if no `DD` then the date is not decided)
 
 ## Usage
 
@@ -62,7 +62,7 @@ This makes it easier to **integrate into maps, calendars, and apps** without bun
 ## Source
 
 Data is taken from the **official Kerala Tourism Event Calendar**:
- [https://www.keralatourism.org/](https://www.keralatourism.org)
+[https://www.keralatourism.org/](https://www.keralatourism.org)
 
 ## Data Extraction
 
@@ -72,13 +72,22 @@ The festival data was extracted from the official Kerala Tourism PDF using the f
 
 Later, the raw JSON was formatted and cleaned with ChatGPT.
 
-##  Disclaimer
+Geographical coordinates were then automatically added using:
+
+[**fill_coordinates.py**](./fill_coordinates.py)
+
+remaining empty coordinates where added manually.
+
+[**update_festival_coordinates.py**](./update_festival_coordinates.py)
+- used to replace the coordinates in festivals.json
+
+## Disclaimer
 
 > In Kerala, festival dates are decided in accordance with the Malayalam calendar and the local traditions and customs.
 > We have given the festival dates based on these. But there can be changes as per the customs and rituals associated with each place of worship.
 > As such, these should be considered **indicative only**.
 
-##  Contributing
+## Contributing
 
 If you notice missing festivals, corrections, or want to improve tags, feel free to open a **pull request** or raise an **issue**.
 

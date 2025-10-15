@@ -12,8 +12,8 @@
         "district": "Pathanamthitta",
         "place": "Sabarimala Dharma Sastha Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.44018512092505,
-          "longitude": 77.07036280452247
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Arattu** at Sabarimala marks the grand finale of the annual festival at the revered Ayyappan Temple. This profoundly sacred ceremony is an opportunity for devotees to seek blessings from **Lord Ayyappa**. The purifying ritual involves a majestic procession where the sacred idol of Lord Ayyappa is carried with utmost reverence to the holy **Pamba River**, a lifeline for devotees. During the Arattu, the idol is ceremonially immersed in the river’s pristine waters, symbolizing spiritual purification and renewal. This act is believed to cleanse devotees of their sins and pave the way for a prosperous year ahead. The procession itself is a spectacle of devotion, accompanied by temple priests chanting sacred mantras, thousands of Ayyappa devotees immersed in prayer, and the rhythmic sounds of traditional music filling the air. The atmosphere is palpable with spiritual energy. For Ayyappa devotees, the Arattu holds immense significance, as it is not merely a ritual but a transformative experience that strengthens their faith and reinforces their connection with the divine. The Sabarimala Arattu is a testament to the enduring power of faith and tradition in Kerala’s cultural landscape. Pilgrims from across the globe converge at Sabarimala to participate in this momentous event, marking the culmination of their arduous pilgrimage.",
@@ -32,8 +32,8 @@
         "district": "Palakkad",
         "place": "Nellikulangara Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.592696058838076,
-          "longitude": 76.60315640965439
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Nenmara Vallangi Vela**, a dazzling spectacle of culture and tradition, stands as one of the most vibrant and anticipated festivals in the Palakkad district of Kerala. Celebrated annually following the harvest season, typically in April, this grand festival is a testament to the enduring spirit and rich heritage of the region. It represents a friendly yet spirited competition between the neighboring villages of Nenmara and Vallangi, fostering a sense of community and camaraderie. The highlight is undoubtedly the majestic procession of elaborately decorated elephants. These gentle giants are paraded through the villages, accompanied by the mesmerizing sounds of traditional percussion music. The rhythmic beats of the **panchavadyam** and **pandimelam** create an electrifying atmosphere, captivating the hearts of onlookers. Beyond the elephant procession, the festival also showcases a diverse array of cultural performances. Folk dances and music, passed down through generations, vividly depict the cultural tapestry of Palakkad. As night falls, the sky comes alive with a breathtaking fireworks display, illuminating the darkness with an explosion of colors and patterns. The Nenmara Vallangi Vela is truly a feast for the senses, attracting large crowds from across Kerala and beyond, all eager to witness this unforgettable celebration of tradition and unity.",
@@ -57,13 +57,17 @@
         "district": "Malappuram",
         "place": "Thirumandhamkunnu Bhagavathy Temple, Malappuram",
         "coordinates": {
-          "latitude": 10.980423164554123,
-          "longitude": 76.20155527973044
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Thirumandhamkunnu Temple, situated in Angadipuram village in Malappuram district, Kerala, is a revered place of worship dedicated to **Goddess Durga**, specifically in the form of **Bhadrakali**. While the temple’s main deity is Goddess Bhadrakali, **Lord Shiva** is also worshipped as a presiding deity. The temple is well known for its long-standing traditions and the vibrant **Pooram** festival celebrated annually during the Malayalam month of **Meenam** (March–April). The temple has a rich historical background, believed to have been established in the 16th century, and the rituals performed here are deeply rooted in tradition. Many devotees visit to receive blessings, trusting in the divine power and grace of the deities enshrined. The annual Pooram festival stands out for its grandeur and cultural significance, transforming the temple grounds into a vibrant hub of religious devotion and traditional celebration, showcasing the rich heritage of the region. The Pooram festival is an 11-day-long celebration filled with color, music, and devotion. It features a grand procession led by a caparisoned elephant. Devotees re-enact traditional legends, dancing and chanting passionately as they proceed to the river. A central moment of the festival is the arrival of the **Vellathiri** at the Pooram ground to meet the chief of the **Pana tribal community**. The occasion is marked by fireworks, dances, and extensive festivities that attract visitors from across the region.",
       "images": [],
-      "tags": ["Temple Festival", "Dance Festival", "Music Festival"]
+      "tags": [
+        "Temple Festival",
+        "Dance Festival",
+        "Music Festival"
+      ]
     },
     {
       "id": 4,
@@ -77,8 +81,8 @@
         "district": "Palakkad",
         "place": "Kavalappara Aryankavu Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.769445786847879,
-          "longitude": 76.30642477972792
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Aryankavu Pooram** is one of the most colourful festivals in Kerala, held every year at the **Kavalappara Aryankavu Bhagavathy Temple** in Palakkad on the 21st day of the Malayalam month of **Meenam** (March - April). The festival is known for its unique rituals and stands apart from other Kerala temple festivals due to its lack of caparisoned elephants. The main attraction is the colourful procession of **horse mannequins** carried by devotees from 96 **thattakams** (regions) of the village, which include Kavalappara, Cherukattupalam, Kunathara Vadakkumuri, Kunathara Thekkumuri, Thangali, Mannoor, Chuduvalathur, Shoranur, Nedungottur, Panayur, and Kallackad. The **Mundaya Kodichi** from Karakkad tattakam is the only mare among the horse mannequins and holds a special position in the festival. The mare mannequin is brought into the temple premises for a performance with the accompaniment of traditional drum beats and horns. This is followed by ritual art performances of **Poothan, Thira, and Vellatt**. The festival also includes a variety of cultural programmes, such as a **tholppavakkoothu** (puppet show) held at the temple premises, and it ends with a fireworks display.",
@@ -97,8 +101,8 @@
         "district": "Thrissur",
         "place": "Peruvanam Mahadeva Temple, Cherpu, Thrissur",
         "coordinates": {
-          "latitude": 10.4373709,
-          "longitude": 76.2119988
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Peruvanam Pooram**, a magnificent temple festival held annually at the revered **Peruvanam Mahadeva Temple** in Thrissur district, stands as a vibrant testament to Kerala's rich cultural heritage. Renowned for its majestic display of caparisoned elephants, intricate traditional music ensembles, and captivating cultural performances, the Pooram attracts devotees and spectators alike. The festival's highlight is undoubtedly the grand procession of elaborately decorated elephants. These majestic creatures carry deities from neighboring temples and are paraded on the temple ground, creating a spectacle of unparalleled grandeur. Accompanying the elephants is the enthralling sound of the **panchavadyam**, a traditional orchestra featuring percussion and wind instruments. The rhythmic beats and melodic tunes resonate through the air, creating an atmosphere charged with devotion and excitement. The festival showcases the region's artistic talents through various cultural performances, offering a glimpse into its rich history and artistic heritage. Peruvanam Pooram transcends mere religious observance; it is a vibrant expression of community spirit and a celebration of Kerala's deep-rooted traditions. Every year, large crowds gather to witness this awe-inspiring spectacle, immersing themselves in the vibrant colors, sounds, and traditions that define the Pooram. It is an experience that leaves a lasting impression, fostering a sense of wonder and appreciation for Kerala's unique cultural identity.",
@@ -117,8 +121,8 @@
         "district": "Thrissur",
         "place": "Arattupuzha Sree Sastha Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.418671444323719,
-          "longitude": 76.23000472390203
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Tharakkal Pooram** is a vibrant prelude to the renowned **Arattupuzha Pooram**, held at the ancient **Sree Sastha Temple** in Arattupuzha, Thrissur district. This festival is celebrated with grandeur, featuring a majestic procession of caparisoned elephants and traditional percussion ensembles like **Pandi Melam** and **Panchavadyam**. The event showcases the rich cultural heritage of Kerala, drawing devotees and tourists alike to witness this spectacular display of devotion and artistry. On the evening of the festival day, the deity (**Sastha**) comes out in procession, accompanied by nine majestic elephants. Bathed in golden light under the glowing brilliance of the lamps, the sight of Sastha fills the devotees with awe. Thousands flow into the temple grounds, hands folded in reverence, their eyes filled with devotion. As the crowd gets excited and cheers to the magical rhythm of the Pandimelam, the Tharakkal Pooram becomes more lively. Additionally, the **Oorakathamma Thiruvadi** arrives from the west with traditional drums, and **Thottippal Bhagavathy** comes from the south with the sound of Panchavadyam. By late night, the melam ends, followed by a stunning fireworks show that illuminates both the sky and the ground.",
@@ -137,8 +141,8 @@
         "district": "Thrissur",
         "place": "Pidikkaparambu Lord Shiva Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.434285175217264,
-          "longitude": 76.23363863369636
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Located in Vallachira village of Thrissur district, the **Pidikkaparambu Shiva Temple** is renowned not for its own festival, but for a spectacular ritual that unfolds around it – the **Pidikkaparambu Aanayottam**, or elephant running. Held annually in the latter half of March or the first half of April, this vibrant event takes place on the day before the famous Arattupuzha Pooram. The temple enshrines a Shiva lingam believed to have been installed by Parashurama. The deity here is worshipped in a fierce form, symbolizing **Lord Shiva** in deep sorrow and rage after hearing of **Goddess Sati’s** immolation at **Daksha Yajna**. Due to the powerful and intense nature of this form, no festival is celebrated within the temple itself. Instead, the neighboring deities from temples in the village—who are on their way to Arattupuzha Pooram—circle the Pidikkaparambu Shiva Temple mounted on elephants, as a mark of ritual respect. This energetic elephant run, filled with vibrant sights and rhythmic sounds, is what the region reverently celebrates as Pidikkaparambu Aanayottam. Over time, this majestic procession has become a major crowd-pulling event.",
@@ -157,8 +161,8 @@
         "district": "Thrissur",
         "place": "Arattupuzha Sree Sastha Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.418555372905443,
-          "longitude": 76.2299939950664
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Arattupuzha Pooram**, known as the **\"Mother of all Poorams,\"** is a spectacular temple festival held in the village of Arattupuzha in the Thrissur district of Kerala. The heart of the Pooram lies in the breathtaking spectacle of over sixty magnificently **caparisoned elephants**. These majestic creatures, adorned with elaborate ornaments and vibrant decorations, parade through the festival grounds, creating a truly awe-inspiring sight. As part of the festival, 23 deities from different temples in Thrissur are carried to the **Sastha Temple** by the majestic tuskers. This ritual has bestowed the festival with the title **Devamela** (The Conclave of Gods). Accompanying this grand procession are traditional percussion ensembles, including the rhythmic and captivating sounds of the **panchavadyam** and **pandimelam**. The combination of sight and sound creates an electrifying atmosphere, filling the air with devotion and excitement. Beyond the elephants and music, Arattupuzha Pooram showcases the rich cultural heritage of Kerala through a diverse array of vibrant performances. Traditional folk dances and music performances offer a glimpse into the region's artistic traditions, passed down through generations. The Arattupuzha Pooram offers a unique and unforgettable cultural experience, drawing massive crowds from across Kerala and beyond, eager to witness this unparalleled celebration of faith, tradition, and community spirit. It is an event that embodies the essence of Kerala's vibrant cultural landscape.",
@@ -177,13 +181,17 @@
         "district": "Thiruvananthapuram",
         "place": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.4827372,
-          "longitude": 76.9474273
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Pallivetta** festival, an integral part of the grand annual celebrations at the **Sree Padmanabhaswamy Temple** in Thiruvananthapuram, is a deeply significant ritual steeped in tradition. Pallivetta, literally translating to **\"royal hunt,\"** vividly symbolizes the deity **Lord Sree Padmanabhaswamy's** symbolic hunting expedition, a unique and captivating aspect of the temple's rich history. During Pallivetta, the revered idol of Lord Padmanabhaswamy is ceremoniously taken out in a majestic procession, accompanied by temple priests, officials, and a multitude of devoted followers. The procession gracefully circumambulates the temple complex, allowing devotees to offer their prayers and witness the spectacle. A key element of the festival is the enactment of a symbolic hunt, representing the deity's power to cleanse and purify. The festival itself is a vibrant tapestry of traditional music, captivating dance performances, and dazzling decorations, creating a festive and reverent atmosphere. Pallivetta is a deeply spiritual event that draws large crowds of devotees and visitors eager to witness the unique and time-honored traditions of the Sree Padmanabhaswamy Temple. The festival offers a profound glimpse into the temple's rich cultural heritage and its significance in the religious landscape of Kerala.",
       "images": [],
-      "tags": ["Temple Festival", "Dance Festival", "Music Festival"]
+      "tags": [
+        "Temple Festival",
+        "Dance Festival",
+        "Music Festival"
+      ]
     },
     {
       "id": 10,
@@ -197,8 +205,8 @@
         "district": "Kozhikode",
         "place": "Lokanarkavu Temple, Kozhikode",
         "coordinates": {
-          "latitude": 11.5986362,
-          "longitude": 75.6197859
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Lokanarkavu Temple** is best known for its vibrant festivals, especially the **Lokanarkavu Utsavam** celebrated in November-December and the **Pooram Mahotsavam** in March-April. The Pooram Mahotsavam begins with the hoisting of the festival flag (**kodiyettu**) on the Rohini star in the Malayalam month of Meenam and concludes with the Pooram day. This festival is considered to have more tantric significance than the Vilakku Utsavam. The flag-hoisting ceremonies take place at the Bhagavathy Temple, the Shiva Temple, and the Vishnu Temple. Major celebration is the Pooram festival, marked by grand processions with caparisoned elephants, traditional percussion, and colorful decorations, creating an electrifying festive ambiance. A major highlight of the Pooram is the **Nagarapradakshinam** (procession around the town), believed to be conducted for the well-being of the people and to spread divine energy across the land. These festivals feature traditional rituals, cultural performances, and folk arts such as **Theyyam** and **Thira**. A key highlight is **Thacholikali**, a folk dance reenacting the martial exploits of legendary warriors like **Thacholi Othenan**.",
@@ -222,8 +230,8 @@
         "district": "Palakkad",
         "place": "Sree Parakkat Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.655492258416732,
-          "longitude": 76.51997321151012
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kavassery Pooram**, held at the **Parakkat Devi Temple**, is a grand, seven-day celebration that marks the legendary victory of the temple’s presiding deity, **Bhagavathy**, over evil. This festival is not only a ritualistic observance but also a heartfelt expression of deep gratitude to the Goddess by the people of **Vavulliapuram, Kazhani, and Kavassery Desams**, who come together to host this vibrant event. Preparations for the Pooram begin as early as the third/fourth week of **Kumbham** (February–March) with **Tholpavakoothu**, a traditional form of shadow puppetry performed as an offering to the Goddess. These early rituals set the spiritual tone for the much-anticipated Pooram that takes place in the last week of **Meenam** (March–April). The highlight of the festival is the **Pooram day**, which includes a ritualistic offering to the Goddess and brilliant fireworks that light up the skies. In the days leading up to this, the temple premises come alive with a range of traditional and devotional events, including the striking sight of the temple's illumination. Kavassery Pooram is a sincere tribute to the divine, celebrated with unity, reverence, and grandeur by the entire community.",
@@ -242,8 +250,8 @@
         "district": "Thiruvananthapuram",
         "place": "Shangumugham Beach, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.478595955860023,
-          "longitude": 76.91194919847294
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Arattu** festival, a spectacular culmination of the annual festival at the revered **Sree Padmanabhaswamy Temple** in Thiruvananthapuram, is a sight to behold. At its heart lies a holy bathing ritual where the sacred idols of the presiding deities are ceremoniously carried in a grand procession to the pristine **Shangumugham Beach** for a purifying immersion. The Arattu procession itself is a majestic spectacle, embodying the rich traditions and deep-seated faith associated with the temple. Temple priests, adorned in traditional attire, lead the procession, accompanied by a majestic line of **caparisoned elephants**. The air resonates with the sounds of traditional music, creating an atmosphere thick with religious fervor and devotion. Thousands of devotees line the streets, eager to witness the sacred ceremony and offer their prayers. As the procession reaches Shangumugham beach, the idols are respectfully bathed in the sea, symbolizing purification and renewal. The Arattu festival is more than just a religious ritual; it is a vibrant display of cultural heritage, drawing together people from all walks of life to witness and participate in a tradition that has been passed down through generations. The event leaves a lasting impression, showcasing the spiritual significance and cultural richness of the Sree Padmanabhaswamy Temple.",
@@ -262,8 +270,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Vishu** is a Malayali festival that celebrates the beginning of the astrological New Year. The festival is celebrated on the first day of the Malayalam month **Medam**, typically falling on April 14th or 15th depending on the solar cycle. It is considered a deeply auspicious day by Kerala Hindus. Various rituals are performed to mark the occasion, the most important of which is **Vishu Kani**, the act of seeing something blessed first thing on the morning of the festival. Hindus arrange auspicious items such as rice, cucumber, coconut, jackfruit, **Kanmashi** (eyeliner), betel leaves, arecanut, **Aranmula Kannadi** (Vaalkannadi), and **Kanikkonna** flowers (*Cassia fistula*) along with a **nilavilakku** in front of an idol of **Lord Krishna** (an incarnation of Lord Vishnu). It’s believed that if one sees these items when they open their eyes, the entire year will be blessed. The high point of the festival is the sumptuous **sadya** (traditional vegetarian feast) enjoyed during lunchtime. There is also a custom called **kaineettam**, in which elders of the family gift money to the youngsters. A number of related festivals like **Vishuvela** happen during this period in various parts of Kerala.",
@@ -282,8 +290,8 @@
         "district": "Pathanamthitta",
         "place": "Kadammanitta Bhagavathy Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.305671208730416,
-          "longitude": 76.77102325186523
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Kadammanitta Padayani**, a vibrant and unparalleled folk art form, bursts to life annually at the **Kadammanitta Devi Temple** in Pathanamthitta district, Kerala. This traditional ritualistic dance, deeply rooted in the region's cultural tapestry, is performed as an offering to appease the powerful **Goddess Kali**, seeking her blessings and protection. The heart of Kadammanitta Padayani lies in its spectacular performances, characterized by the use of elaborate and awe-inspiring masks known as **\"kolams.\"** These kolams, meticulously crafted from natural materials such as areca nut fronds, bamboo, and vibrant natural dyes, represent a diverse pantheon of deities, spirits, and mythical characters. The artistry and craftsmanship displayed in the creation of these masks are truly remarkable. As the sun sets, the Padayani performances unfold, captivating audiences with their rhythmic movements, hypnotic drumming, and powerful chanting. The dancers, adorned with the magnificent kolams, move in a trance-like state, bringing the myths and legends associated with the goddess to life. The festival is a fascinating blend of mythology, folklore, and ancient ritualistic practices, offering a profound glimpse into the rich cultural heritage of Kerala. Kadammanitta Padayani draws large crowds of locals and tourists alike, eager to witness these mesmerizing performances and immerse themselves in the unique traditions of this enchanting region.",
@@ -302,8 +310,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Maundy Thursday** holds a significant place in the hearts of Christians across Kerala. This solemn religious observance commemorates the **Last Supper** of Jesus Christ with his disciples, a pivotal event in Christian theology. On this day, churches throughout the state host special services imbued with deep meaning and symbolism. A central tradition during these services is the **washing of feet ceremony**, a powerful reenactment of Jesus's act of humility and service towards his disciples. This ceremony serves as a potent reminder of the importance of selfless love and the call to serve one another. Beyond the church services, families in Kerala also observe Maundy Thursday with special prayers and meals, fostering a sense of togetherness and spiritual reflection. A particularly cherished tradition is the preparation of **Pesaha Appam**, a unique unleavened bread made from rice flour and coconut milk. This special bread, steamed to perfection, is consumed after prayers, symbolizing the unleavened bread shared during the Last Supper. Maundy Thursday is a time for profound reflection, heartfelt prayer, and solemn remembrance of the ultimate sacrifice made by Jesus Christ, deeply woven into the rich tapestry of Christian traditions in Kerala. It's a day of spiritual renewal and a reaffirmation of faith.",
@@ -322,8 +330,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Good Friday**, a day of profound solemnity and reflection, is observed by Christians throughout Kerala as a commemoration of the **crucifixion of Jesus Christ**. This significant religious holiday is marked by special services held in churches across the state, inviting congregations to contemplate the sacrifice and suffering endured by Jesus. A central practice during Good Friday services is the **Stations of the Cross**, also known as the Way of the Cross. This deeply moving devotion involves reenacting the events leading up to Jesus's crucifixion, allowing worshippers to vicariously experience his pain and suffering. Good Friday is observed as a day of fasting, prayer, and introspection. Many Christians choose to abstain from certain foods or engage in an act of penance. Processions and vigils are also common throughout Kerala, as Christians come together to publicly express their faith and mark the day with reverence and solemnity. The atmosphere is one of quiet contemplation and spiritual introspection. Good Friday holds a place of utmost importance in the Christian calendar, serving as a poignant reminder of the sacrifice made for humanity and the enduring message of hope and redemption.",
@@ -342,8 +350,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Easter**, a festival brimming with joy and hope, is celebrated with great fervor by Christians in Kerala, marking the glorious **resurrection of Jesus Christ** from the dead. This joyous occasion signifies the triumph of life over death and is a cornerstone of Christian faith and belief. Churches throughout the state host special services, filled with uplifting hymns, heartfelt prayers, and vibrant celebrations that resonate with the spirit of renewal. Easter is a time for spiritual renewal and a reaffirmation of faith, celebrating the promise of eternal life. The atmosphere is one of gratitude and celebration, as Christians reflect on the significance of Easter and the hope it represents. It is a time for families to come together, strengthen their bonds, and share in the joy of the season. Special meals are prepared and shared, symbolizing the abundance of blessings associated with the resurrection. Deeply rooted in Christian traditions, Easter in Kerala is a vibrant expression of faith, hope, and the enduring power of the resurrection. It is a time to rejoice in the triumph of good over evil and the promise of a brighter future.",
@@ -362,8 +370,8 @@
         "district": "Kozhikode",
         "place": "Thali Temple, Kozhikode",
         "coordinates": {
-          "latitude": 11.4275908,
-          "longitude": 75.8358618
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Thali Temple** in Kozhikode is renowned for its significant festivals, with the **Arattu** festival being the most important and widely celebrated. Held annually in April, the eight-day festival begins with the hoisting of the flag and culminates in the grand Arattu (holy bath) procession. This sacred event attracts numerous devotees who take part in rituals and processions. The Arattu symbolizes the divine purification of the idol and is the highlight of the temple's celebrations. In addition to the Arattu festival, the Thali Temple also hosts the **Revathi Pattathanam**, a renowned cultural and intellectual event held for seven days in October or November. Originating as a penance by the Zamorins, this festival honors scholars with the title **Bhatta** and offers them monetary rewards for their contributions to knowledge. Another important event at the temple is the **Prathishta festival**, celebrated in June or July, which marks the consecration of the temple. While each of these festivals has its own unique significance, the Arattu festival remains the grandest, drawing thousands of devotees to witness the procession and take part in the sacred rituals.",
@@ -382,8 +390,8 @@
         "district": "Kottayam",
         "place": "St. George Forane Church, Aruvithura, Kottayam",
         "coordinates": {
-          "latitude": 9.6857363,
-          "longitude": 76.7778163
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Aruvithura Perunnal**, a grand and spiritually uplifting festival, is celebrated annually at the **St. George Forane Church** in Aruvithura, Kottayam district. This significant Christian event draws devotees from across Kerala and beyond, who are eager to partake in the festivities and seek blessings from **St. George**, the patron saint of the church. The Perunnal is a vibrant tapestry of religious observances, characterized by elaborate processions, special prayers, and solemn ceremonies held over several days. A key highlight of the Aruvithura Perunnal is the magnificent procession carrying the statue of St. George. The statue, resplendent with precious ornaments and adorned with colorful flowers, is paraded through the streets, creating a truly awe-inspiring spectacle. Devotees participate with deep faith and devotion, offering prayers for healing, prosperity, and divine guidance. The atmosphere is charged with spiritual energy as the procession winds its way through the town. Beyond the religious ceremonies, the Aruvithura Perunnal also features a vibrant array of cultural performances, showcasing the rich artistic traditions of the region. Numerous stalls selling religious articles, local handicrafts, and delicious Kerala delicacies add to the festive atmosphere, making it a truly enriching experience for all who attend. The Aruvithura Perunnal is a testament to the enduring faith and cultural heritage of the Christian community in Kerala.",
@@ -402,8 +410,8 @@
         "district": "Ernakulam",
         "place": "St. Thomas Syro-Malabar Catholic Church, Ernakulam",
         "coordinates": {
-          "latitude": 10.086156,
-          "longitude": 76.5025241
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Malayattoor Perunnal**, an intensely spiritual Christian pilgrimage, draws throngs of devotees to the **St. Thomas Syro-Malabar Catholic Church**, dramatically situated atop **Malayattoor Hill** in Ernakulam district. This revered event sees thousands ascending the hill, particularly during March-May, seeking the blessings of **St. Thomas the Apostle**, who, according to tradition, spent time in prayer at this very location. The climb itself becomes an act of devotion. The atmosphere is thick with faith; the air vibrates with fervent prayers and the rhythmic chanting of hymns as pilgrims, often bearing simple wooden crosses, make their way up the mountainside. The crosses symbolize their faith and willingness to undergo penance. Legendary accounts state that St. Thomas lived on Malayattoor Hill while preaching the gospel, and remarkably, imprints believed to be marks of his feet and knees are still visible on the rock face, serving as tangible reminders of his presence. The feast of Malayattoor is far more than a simple celebration; it represents a profound spiritual renewal, allowing pilgrims to forge a deep and lasting connection with the apostle's remarkable legacy and unwavering dedication. It's a journey of faith, steeped in history and tradition.",
@@ -422,8 +430,8 @@
         "district": "Thrissur",
         "place": "Thekkinkadu Maidanam, Thrissur",
         "coordinates": {
-          "latitude": 10.525102075357204,
-          "longitude": 76.21465417649684
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Thrissur Pooram**, undeniably the most celebrated and visually stunning temple festival in Kerala, unfolds annually in the cultural heartland of Thrissur. It's not just a festival; it's a grand symphony of traditions, a spectacle of devotion, and a vibrant showcase of Kerala's rich cultural tapestry. At its core, Thrissur Pooram is a magnificent convergence of deities from various temples across the region. The festival is globally renowned for its majestic procession of **caparisoned elephants**. These magnificent creatures, adorned in elaborate ornaments and vibrant attire, embody regal grace and power. Accompanying the elephants are traditional percussion ensembles, most notably the **panchavadyam** and **pandimelam**. The rhythmic and intoxicating sounds of these orchestras create an atmosphere of unparalleled excitement and spiritual fervor. As night descends, the sky lights up in a dazzling display of **fireworks**. This breathtaking spectacle, illuminating the night with a vibrant array of colors and patterns, is a major highlight of the Pooram, captivating audiences of all ages. Thrissur Pooram attracts massive crowds from around the world, eager to witness this feast for the senses and immerse themselves in the unique traditions of Kerala. It’s more than a festival; it’s an unforgettable experience that resonates long after the celebrations have ended.",
@@ -442,8 +450,8 @@
         "district": "Alappuzha",
         "place": "St. George Church, Alappuzha",
         "coordinates": {
-          "latitude": 9.4955516,
-          "longitude": 76.3340159
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Edathua Perunnal**, a renowned and vibrant eleven-day festival held annually at the **St. George Church** in Edathua, Alappuzha district, is a testament to the enduring faith and cultural harmony of Kerala. Dedicated to **St. George**, the revered saint known for his courage and compassion, this feast welcomes devotees from all faiths, transcending religious boundaries in a spirit of unity and devotion. Throughout the festival, the church and its surroundings come alive with elaborate processions, solemn religious ceremonies, and captivating cultural performances. A central event is the grand procession where the statue of St. George, adorned with exquisite gold ornaments, is paraded around the church, creating a mesmerizing spectacle. Devotees line the streets, offering heartfelt prayers and seeking blessings, deeply believing in the miraculous powers attributed to the saint. The air is thick with anticipation and spiritual fervor as the community comes together to celebrate. Enhancing the festive atmosphere are numerous stalls selling a diverse array of goods, from religious items and local handicrafts to toys and delectable treats. The Edathua Perunnal offers a colorful and lively ambiance, providing a spiritually enriching and culturally immersive experience for everyone who attends. It’s a celebration of faith, unity, and the vibrant traditions of Kerala.",
@@ -462,8 +470,8 @@
         "district": "Kottayam",
         "place": "St. George Orthodox Church, Kottayam",
         "coordinates": {
-          "latitude": 9.5519786,
-          "longitude": 76.5674537
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Puthuppally Perunnal**, a grand two-day festival at Kottayam’s **St. George Orthodox Church**, known as the **‘Georgian Pilgrim Centre of the East,’** attracts numerous devotees with its rich prayers and rituals. The church, originally built as a chapel in 1557, is a revered Malankara Orthodox landmark. Festivities begin ten days prior with flag hoisting, followed by key rituals: **Virakideel** (firewood offering), **vechoottu** (ceremonial feast), and **adya choroonu** (first rice feeding). The **‘raza’** is a highlight – a vibrant procession carrying the holy golden cross to the Puthuppally junction. This spectacle includes colorful umbrellas, orchestras, and ornate wooden, silver, and gold crosses. Perunnal **Kodiyettu** or flag hoisting marks the start of religious services, cultural events, communal meals, and prayer. Throughout the festival, there are Holy Mass, liturgical prayers, sermons on St. George, concerts, dances, dramas, and the **“sadya”** feast symbolizing community. Devotees offer prayers and vows seeking blessings. The feast of **St. Sebastian** is another significant event starting with flag hoisting on January 19. The procession features St. Sebastian’s statue, fireworks, school bands, flags, and ornate crosses and umbrellas.",
@@ -482,8 +490,8 @@
         "district": "Idukki",
         "place": "Mangala Devi Kannagi Temple, Idukki",
         "coordinates": {
-          "latitude": 9.598232356721747,
-          "longitude": 77.22205391040029
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Nestled within the heart of the **Periyar Tiger Reserve** in Idukki, the ancient **Mangala Devi Temple** unveils its doors to devotees only once a year, during the **Chitra Pournami** celebrations. This 100-year-old granite structure, perched at an altitude of 1,337 meters, stands as a testament to the enduring legacy of **Mangala Devi**, also known as **Kannaki**, the heroine of the Tamil epic *Silapathikaram*. She is revered as an embodiment of moral power and justice. Established by the ancient Tamil king **Cheran Chenguttuvan**, the temple commemorates Kannaki’s legendary act of avenging her husband’s wrongful death. The Chitra Pournami festival, held on the full moon day of the Tamil month **Chithirai**, draws devotees from Kerala and Tamil Nadu, who partake in ritualistic prayers and offerings. Women, in particular, participate in large numbers, preparing and offering **Pongal**, a sweet rice dish, to the goddess, seeking blessings for long and happy marriages. The pilgrimage to the temple is a significant undertaking, involving a 12 km trek through the dense forests and grasslands of the Periyar Tiger Reserve. This journey, often undertaken by jeep, is carefully managed to minimize disturbance to the local ecosystem. The trek culminates in a breathtaking view of the Western Ghats, creating a spiritually enriching experience. The temple, with its Pandyan influences and historical significance, provides a unique blend of history, mythology, and natural beauty.",
@@ -502,8 +510,8 @@
         "district": "Palakkad",
         "place": "Sree Thootha Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.915388118634768,
-          "longitude": 76.2898077815791
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Thootha Pooram**, a vibrant and uniquely charming seven-day temple festival, bursts to life annually in the village of Thootha, nestled in the Palakkad district of Kerala. This celebration distinguishes itself with unique traditions and cultural displays, setting it apart from the more common Pooram festivals found elsewhere in the region and providing a genuine glimpse into the heart of rural Kerala. The **Thootha Bhagavathy Temple** stands as the focal point of the celebrations, with devotees gathering to offer heartfelt prayers and seek blessings from the goddess. A central highlight of Thootha Pooram is the **\"Aanayoottu,\"** a grand and elaborate feast for elephants. This act of reverence showcases the deep respect and admiration for these majestic animals ingrained in Kerala culture. The festival also features colorful processions, filled with the captivating sounds of traditional music, the energetic movements of folk dances, and a diverse array of cultural performances, reflecting the artistic talents of the local community. Unlike some other Poorams, Thootha Pooram places a strong emphasis on community participation, fostering a powerful spirit of unity and togetherness among the villagers. It offers a captivating journey into the rich cultural heritage and time-honored traditions of rural Kerala, attracting both locals and visitors eager to experience its unique charm and authentic spirit.",
@@ -522,8 +530,8 @@
         "district": "Palakkad",
         "place": "Sree Kurumba Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.5676979,
-          "longitude": 76.4929041
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kannambra-Rishinarada Mangalam Vela**, a breathtaking spectacle at the **Sree Kurumba Temple** in Palakkad, marks the grand finale of summer festivals in the Palakkad-Thrissur region. Often called **'Chakka Vela,'** this festival intertwines with the story of jackfruit and mango harvests and is a visual feast comparable to Thrissur Pooram. **Two competing groups**, Kannambra Desam and Rishinarada Mangalam Desam, lead the festivities. The festival officially starts on **Vishu** with the **Kooranattal** ceremony, hoisting flags at Sree Kurumba Temple and Rishinarada Mangalam Mannam. Children perform the **Kummatti** ritual from Vishu evening, dancing with neem leaves and fire sticks while chanting about the Goddess. The main Kummatti fest on the 40th day features fireworks and events. A highlight is the grand elephant pageantry on **Vela day**, including the **Vaalum Chilambum Ezhunnallathu**, a colorful procession from Sree Kurumba Temple to Rishinarada Mangalam Mannam. The **Eedu Vedi**, a midday fireworks display, also draws crowds. On Vela day, the two groups move towards the Sree Kurumba Bhagavathy Temple, accompanied by seven elephants and traditional orchestras like **Panchavadyam** and **Pandimelam**. The central elephant carries the Goddess' **Kolam**. The parade concludes at the Vela Parambu for fireworks. After evening processions and fireworks, the festival ends with fireworks and the Goddess' Kolam returning to Rishinarada Mangalam Mannam. The festival attracts locals and people from neighboring districts and Tamil Nadu, making it a community celebration transcending caste and religion.",
@@ -542,8 +550,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Bakrid**, or **Eid-al-Adha**, is one of the two major festivals in Islam. It is celebrated on the 10th day of **Dhu al-Hijjah**, the 12th and last month of the Islamic calendar. Bakrid celebrates the obedience of **Hazrat Ibrahim** who was ready to sacrifice his only son to obey God’s command. On the day of the festival, Muslims attend prayers at mosques or **Idgahs** (special venues for prayers), which is followed by a sermon. They perform the ritual sacrifice of goats and other cattle. A third of the meat is kept by the family performing the sacrifice, and the rest is divided among friends and the needy. It is a day of great celebration for the Muslim community across the globe. They wear new clothes and enjoy delicious feasts with family and friends. In Kerala, the delectable fare includes the ubiquitous **biryani**, **pathiri** (rice flatbreads) enjoyed with a variety of meat dishes, and topped off with mouthwatering snacks and desserts like **unnakkaya, omanapola, kilsa, and neyyada**.",
@@ -562,8 +570,8 @@
         "district": "Kannur",
         "place": "Kottiyoor Temple, Kannur",
         "coordinates": {
-          "latitude": 11.8746725,
-          "longitude": 75.8629238
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kottiyoor Festival**, a uniquely sacred and deeply spiritual event, unfolds annually at the ancient **Kottiyoor Temple**, nestled in the scenic landscapes of Kannur district. This extraordinary event is not just a festival; it is a transformative pilgrimage, drawing devotees from across Kerala and beyond, all seeking divine blessings and spiritual enlightenment. The Kottiyoor Festival is characterized by its elaborate rituals, meticulously performed by temple priests according to age-old traditions. A distinctive feature of the festival is the construction of a temporary structure, often crafted from bamboo and adorned with coconut fronds, which serves as the temporary abode for the deity during the celebrations. The festival is far more than a series of rituals; it is a profound embodiment of unwavering faith and selfless devotion. The serene atmosphere, the sacred chants, and the collective spiritual devotion of the pilgrims create a truly unforgettable and spiritually uplifting experience.",
@@ -582,8 +590,8 @@
         "district": "Alappuzha",
         "place": "Pamba River, Alappuzha",
         "coordinates": {
-          "latitude": 9.326894,
-          "longitude": 76.5189374
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Champakkulam Boat Race**, a cornerstone of Kerala's vibrant cultural tapestry, is a spectacle of immense historical and religious significance. Held annually on the serene **Pamba River** in Alappuzha district, this magnificent event marks the auspicious occasion of the deity's idol installation at the revered **Ambalappuzha Sree Krishna Temple**. The race is more than just a competition; it's a living embodiment of Kerala's rich maritime heritage. The centerpiece of the event is the majestic snake boats, known locally as **\"chundan vallams.\"** These sleek, ornately decorated vessels, resembling mythical serpents gliding across the water, are propelled by hundreds of oarsmen. Their synchronized movements are driven by the rhythmic pulse of traditional boat songs, or **\"vanchipattu.\"** The air crackles with anticipation as thousands of spectators throng the riverbanks, their cheers and applause creating an electrifying atmosphere. The Champakkulam Moolam Boat Race is a festival that showcases the spirit of unity, teamwork, and tradition. It's a time when communities come together to celebrate their shared heritage and witness the exhilarating display of skill and endurance. The event attracts visitors from across the globe, offering a captivating glimpse into the heart and soul of Kerala. Witnessing the Champakkulam Moolam Boat Race is an unforgettable experience, a true immersion into the cultural richness of \"God's Own Country.\"",
@@ -602,8 +610,8 @@
         "district": "Pathanamthitta",
         "place": "Aranmula Parthasarathy Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.328450382079392,
-          "longitude": 76.68786028156204
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Aranmula Vallasadya**, a truly unique and deeply revered tradition, represents a sacred offering to **Lord Parthasarathy** at the ancient **Aranmula Parthasarathy Temple** in Pathanamthitta district. This extraordinary ritual centers around a grand feast, or **\"sadya,\"** served to the oarsmen of the majestic snake boats, known as **\"palliyodams,\"** upon their arrival at the temple following the Aranmula Boat Race. The Vallasadya transcends the concept of a simple meal; it is a deeply symbolic and spiritual offering, celebrating the unbreakable bond between the temple and the surrounding community. Each palliyodam, representing a different village or **\"kara,\"** brings its oarsmen to partake in this divine feast. As they are served, the oarsmen chant traditional songs, known as **\"vanchipattu,\"** expressing their devotion and gratitude. The atmosphere is charged with reverence and piety. The feast itself is a culinary masterpiece, featuring a wide array of traditional Kerala dishes served on plantain leaves. The Aranmula Vallasadya is a significant cultural and religious event, showcasing the richness of Kerala's traditions, the strength of its community spirit, and the unwavering faith of its people. It is an experience that embodies the essence of Kerala's unique cultural landscape.",
@@ -622,8 +630,8 @@
         "district": null,
         "place": "Kottayam",
         "coordinates": {
-          "latitude": 9.6287383,
-          "longitude": 76.6455326
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Dharmasastha Temple** at **Pakkil**, located in Kottayam district, is one of the eight sacred temples believed to have been established by **Sage Parasurama**, the mythical founder of Kerala. Nestled in the serene village of Pakkil, the temple is not only a spiritual center but also the venue of a unique and vibrant annual celebration - **Sankranti Vanibham**, a traditional trade fair that draws large crowds every year. Held during the Malayalam month of **Midhunam** (June/July), this fair is one of the main highlights of the temple’s festivities. Unlike many temple festivals that focus primarily on religious rituals, Samkranthi Vaanibham is centered around a large-scale exhibition and sale of household items, agricultural implements, and traditional wares. The entire temple premises come alive with the sounds of bargaining and the bustle of trade. The fair showcases a wide variety of goods, including kitchen utensils, farming tools, pottery, handicrafts, and furniture. What makes it especially appealing is the presence of traditional Kerala items such as **Muram** (winnow), **Kutta** (reed baskets), **Vatti** (sieve baskets), **Thazhappaya** (screw pine mats), **Kalchattis** (stone cooking vessels), and **Manchattis** (mud pots), which are displayed in different sizes and forms. Samkranthi Vaanibham offers a rare blend of spiritual devotion and cultural commerce, making it a unique experience for devotees and visitors alike, and preserving Kerala’s rich tradition of temple fairs.",
@@ -642,8 +650,8 @@
         "district": "Thrissur",
         "place": "Vadakkumnathan Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.5243568,
-          "longitude": 76.2144829
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Every year during the Malayalam month of **Karkidakam** (July/August), the **Vadakkumnathan Temple** in Thrissur hosts **Aanayoottu**, a unique elephant feeding ceremony. This vibrant celebration draws thousands of people seeking blessings. The event honors elephants, which are considered sacred, and seeks the blessings of **Lord Ganesha**, who is believed to remove obstacles. Aanayoottu celebrates the bond between humans and elephants, rooted in the belief that honoring these creatures will please Lord Ganesha. Lined up within the temple, the elephants are fed a meticulously prepared Ayurvedic mix to enhance their health and well-being. The origins are deeply rooted in Kerala's cultural traditions, where elephants hold a significant place. The Vadakkumnathan Temple, known for its architectural style, becomes the focal point. **Gaja Pooja** and **Ashtadravya Maha Ganapathi Homam** are performed by 50 priests, led by the temple **Tantri**. These rituals involve offerings of coconuts, jaggery, beaten rice, puffed rice, sesame, honey, sugarcane, and lemons. The highlight is the sight of unadorned elephants being worshipped and fed amid a multitude of people. The feeding session includes rice balls and pineapples. A grand feast is also given to around 7,000 attendees.",
@@ -660,10 +668,10 @@
       "isMajor": true,
       "location": {
         "district": "Kerala",
-        "place": "Kerala",
+        "place": "Sacred Riverbanks and Temples in Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Karkkidaka Vavu**, a day steeped in reverence and tradition, is a deeply significant Hindu ritual observed throughout Kerala during the Malayalam month of **Karkkidakam** (July-August). This solemn occasion is dedicated to paying homage to departed souls through the performance of the **'bali tharpanam'** ritual. It is widely believed that these heartfelt offerings provide solace and liberation to the souls of the departed. On this day, families gather at temples, sacred riverbanks, and designated **'bali thara'** locations across the state to perform the ritual. Priests guide the proceedings, chanting sacred mantras as devotees offer rice balls, sesame seeds, and water, among other items, as symbolic feeding of their ancestors. The atmosphere is imbued with a sense of piety and reflection, as individuals connect with their lineage and express gratitude for their heritage. Karkkidaka Vavu transcends a mere ritualistic practice; it embodies the profound respect for familial bonds and the enduring belief in ancestor worship, a cornerstone of Kerala's cultural ethos. By performing these rites, families seek blessings for prosperity, well-being, and protection from ancestral spirits, ensuring harmony and continuity within the family line. The observance serves as a poignant reminder of the interconnectedness between the living and the departed.",
@@ -682,8 +690,8 @@
         "district": "Bharananganam",
         "place": "St Alphonsa Shrine Church, Bharananganam",
         "coordinates": {
-          "latitude": 9.701552536207132,
-          "longitude": 76.72629159053965
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**St. Alphonsa** is the first Indian woman to be canonized as a saint. The feast of St. Alphonsa is celebrated every year on **July 28** at **St Alphonsa Shrine Church and Pilgrim Centre** in **Bharananganam**, near Pala town in Kottayam district. She passed away on this day in 1946 after her struggles with prolonged illnesses, which she considered as being ordained by God to atone for people’s sins. She was a nun at the **Franciscan Clarist Congregation** and used to teach at St. Mary’s High School in Bharananganam. The devotion to St. Alphonsa began with her students who sought her intercession for various needs. The Catholic Church beatified her in 1986, and she was canonized on February 8, 2008. **Nine-day novena prayers** are held prior to the feast day. Thousands of devotees from various parts of the state congregate here to seek blessings and favors from the patronage of St. Alphonsa. **Candle-lit rosary recitals** are also observed to symbolize her life that 'burned out like a candle in silent suffering.' Special mass, **ladeenj** (Vespara), and Novena are held in the evening of the feast day, followed by a procession around the shrine.",
@@ -702,8 +710,8 @@
         "district": "Kannur",
         "place": "Madayikkavu, Kannur",
         "coordinates": {
-          "latitude": 12.0350029,
-          "longitude": 75.2612785
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Gods seem to come alive, roaring and dancing, stirring ancient legends in quiet Kerala villages during certain times. **Maaritheyyam** is one such ritualistic performance, a form of **Theyyam** (literally meaning \"God\"), where pantheistic deities are believed to enter the body of the performer. Each year, on the 16th day of the Malayalam month of **Karkkidakam** (July–August), the Maaritheyyam begins its ceremonial journey from a site near **Madayikkavu**. Known also as **Karkkidaka Theyyam** or **Maariyattam**, the performance is marked by distinct costumes and face art. The performers are adorned in **kuruthola** (tender palm leaves), with their faces painted in red and black hues, often covered by long, striking masks. A large, specially designed headgear adds to their dramatic appearance. The term “Maari” in Malayalam means “suffering,” and since Karkkidakam is considered the “month of scarcity,” the ritual is believed to drive away the miseries of the season and prepare for the more prosperous month of **Chingam**. During the season, performers go from house to house, dancing and chanting rhythmically to the beats of traditional instruments like **thudi** (small drum) and **chengila** (gong), offering a vivid display of devotion and tradition.",
@@ -722,8 +730,8 @@
         "district": "Thrissur",
         "place": "Dhanwanthari Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.5132203,
-          "longitude": 76.2503199
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Nelluvai Oushadha Seva Dinam** is a special day observed at the **Dhanwanthari Temple** in Nelluvai, Thrissur, where health and devotion come together in a unique blend of faith and healing. The temple, dedicated to **Lord Dhanwanthari**—the divine physician and god of **Ayurveda**—is famed for its daily offering of **Oushada Prasada**, a medicinal *prasadam* known as **Mukkudi**. On Oushadha Seva Dinam, this sacred tradition takes center stage, drawing devotees who seek relief from various ailments. It is believed that sincere worship of Lord Dhanwanthari combined with the intake of this prasada can aid in curing illnesses and restoring health. This day is not just a religious observance, but also a celebration of the healing power of Ayurveda guided by divine grace. Devotees gather in large numbers, taking part in rituals and receiving the Oushada Prasada with deep reverence. For many, Oushadha Seva Dinam is a moment of spiritual renewal, a time to seek not only physical well-being but also inner peace and balance. Nelluvai Oushadha Seva Dinam upholds the centuries-old belief in the healing presence of Lord Dhanwanthari, making it a unique observance where devotion meets traditional knowledge in its most sacred form.",
@@ -742,8 +750,8 @@
         "district": "Alappuzha",
         "place": "Punnamada Lake, Alappuzha",
         "coordinates": {
-          "latitude": 9.5016381,
-          "longitude": 76.3547466
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Nehru Trophy Boat Race**, a dazzling spectacle of athleticism and tradition, reigns supreme as the most prestigious and internationally recognized snake boat race in Kerala. Held annually on the expansive **Punnamada Lake** in Alappuzha, this electrifying event draws a massive influx of spectators, both domestic and international, eager to witness the thrilling competition. Named in honor of **Jawaharlal Nehru**, India's first Prime Minister, the race commemorates his visit and enthusiasm for the traditional boat races of the region. The focal point of the Nehru Trophy Boat Race is the majestic **\"chundan vallams,\"** the iconic snake boats, each representing a different village or community. These magnificent vessels, adorned with intricate carvings and vibrant colors, are manned by hundreds of skilled oarsmen who row in perfect unison, their powerful strokes propelling the boats across the lake at breathtaking speed. The air vibrates with the rhythmic chanting of traditional boat songs, fueling the energy and determination of the rowers. Beyond the thrilling race itself, the Nehru Trophy Boat Race is a grand celebration of Kerala's rich cultural heritage. It embodies the spirit of unity, teamwork, and competitive zeal. The coveted **Nehru Trophy**, awarded to the winning team, stands as a testament to their dedication, skill, and the enduring legacy of this remarkable race.",
@@ -762,8 +770,8 @@
         "district": null,
         "place": "Kottayam",
         "coordinates": {
-          "latitude": 9.6287383,
-          "longitude": 76.6455326
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "This splendid boat race is held annually on the day of **Chathayam**, in the Malayalam month of **Chingam** (August-September), at **Kottathod in Kumarakom**, in commemoration of the visit of **Sree Narayana Guru**—one of the most influential social reformers of Kerala. In 1903, Guru arrived at Kumarakom on a boat, accompanied by a big procession. He dedicated the idol, which was a picture of **Lord Subrahmanya**, and a **‘vel’** (the divine spear) at the **Kumarakamangalam temple**. He also laid the foundation for a school nearby. It is in remembrance of this event and the procession that was organized to welcome Guru that the Kumarakom Boat Race is organized annually. The first water festival was conducted in 1952. It is today one of the oldest of its kind in **Kuttanad** and is held on a 900-meter track in Kottathod. On the day of Chathayam, decorated boats carrying the idol of Lord Subrahmanya and a picture of Guru start from the Kumarakamangalam temple. Once this procession is over, the boat race will be all set to begin. Over 1,000 rowers participate in the race, and all the major snake boats in Kuttanad will be there to compete. However, in the Kumarakom race, **Iruttukuthy boats** have more importance than snakeboats.",
@@ -782,13 +790,17 @@
         "district": "Ernakulam",
         "place": "Thripunithura, Ernakulam",
         "coordinates": {
-          "latitude": 10.0147262,
-          "longitude": 76.3112913
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Athachamayam**, a vibrant event of color and tradition, serves as the magnificent curtain-raiser to the ten-day **Onam** festival, Kerala's most celebrated cultural extravaganza. This grand spectacle unfolds in **Thrippunithura**, a town steeped in royal history within the Ernakulam district. More than just a festive procession, Athachamayam is a living recreation of a historical event, transporting onlookers back in time to witness the glory of the **Kochi Kingdom**. The procession is a sensory feast, featuring elaborately **caparisoned elephants**, their majestic presence lending an air of regal splendor. Accompanying the elephants is a vibrant tapestry of traditional music and dance forms, showcasing the diverse artistic heritage of Kerala. From the rhythmic beats of percussion instruments to the graceful movements of dancers, every element of the procession contributes to the festive atmosphere. Various cultural performances, representing different communities and art forms, further enrich the spectacle. Athachamayam commemorates the triumphant victory of the Kochi King in a battle, a significant historical moment celebrated through this vibrant display. It not only marks the beginning of Onam but also serves as a powerful reminder of Kerala's rich cultural legacy, filling the air with anticipation and festive cheer.",
       "images": [],
-      "tags": ["Harvest Festival", "Dance Festival", "Music Festival"]
+      "tags": [
+        "Harvest Festival",
+        "Dance Festival",
+        "Music Festival"
+      ]
     },
     {
       "id": 42,
@@ -802,8 +814,8 @@
         "district": "Kerala",
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Thiruvona Mahotsavam**, the zenith of the ten-day Onam festivities, radiates with unparalleled joy and enthusiasm throughout Kerala. This most auspicious day signifies the symbolic return of the beloved **King Mahabali**, whose reign is celebrated for its prosperity and equality. The landscape transforms into a vibrant tapestry as homes are meticulously adorned with **\"pookalam,\"** intricate floral carpets crafted with an array of colorful blossoms. The air is filled with the tantalizing aromas of **\"Onasadya,\"** a lavish vegetarian feast featuring a multitude of dishes served traditionally on banana leaves. Laughter and excitement fill the air as people engage in traditional games and witness captivating cultural performances, showcasing Kerala's rich artistic heritage. Dressed in their finest new clothes, families gather to share stories, exchange gifts, and strengthen bonds. Thiruvonam embodies joy, unity, and prosperity, reflecting the core values of Kerala's cultural identity. It’s a day of remembrance and gratitude, honoring King Mahabali's legacy and embracing the spirit of harmony and togetherness that defines Onam.",
@@ -822,8 +834,8 @@
         "district": "Ernakulam",
         "place": "Thrikkakkara Vamana Moorthy Temple, Ernakulam",
         "coordinates": {
-          "latitude": 10.035630889693302,
-          "longitude": 76.32956349691169
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Thrikkakkara Vamana Moorthy Temple**, located near Kochi, is the focal point of one of the most vibrant and revered Onam celebrations (August-September) in Kerala. The temple, dedicated to **Lord Vishnu** in his **Vamana** incarnation, plays a key role in the festivities of the ten-day **Onam festival**, known as **Thiruvonamahotsavam**. This celebration holds particular significance as it commemorates the legendary visit of **King Mahabali**, who is believed to return to his homeland during Onam to meet his people. As per tradition, Onam festivities begin at the Thrikkakkara Temple, ushering in the spirit of unity and prosperity. The Thiruvona Mahotsavam at Thrikkakkara Temple is a grand affair, marked by a series of rituals, processions, and community events. The highlight of the festival is the traditional **Onam feast**, served to devotees as a gesture of hospitality and reverence. The temple’s precincts come alive with spiritual fervor and joyous celebrations during these ten days, attracting pilgrims and visitors alike. The temple's importance in the celebration is enhanced by its rich history, with inscriptions dating from the 10th to 13th century that offer a glimpse into its long-standing cultural and religious significance.",
@@ -842,8 +854,8 @@
         "district": "Kottayam",
         "place": "St. Mary's Church, Kottayam",
         "coordinates": {
-          "latitude": 9.7544153,
-          "longitude": 76.5649302
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Manarcad Perunnal**, celebrated at the **St. Mary’s Jacobite Syrian Orthodox Church** in Manarcad, Kottayam district, is an important eight-day annual Christian festival known for its grand processions and unique traditions. The event attracts devotees from across Kerala and beyond. A key highlight is the **“Raza,”** a magnificent procession featuring elaborately decorated floats, traditional music, and vibrant displays of religious art. The procession winds its way through the town, creating a spectacle of faith and devotion. Another significant aspect is the offering of **parasols** to **St. Mary**, symbolizing protection and blessings. Thousands of devotees participate in this ritual, carrying colorful parasols to the church. Special prayers, religious discourses, and cultural programs are held throughout the festival. The St. Mary’s Church, steeped in history and tradition, provides a serene backdrop for the event. The Manarcad Perunnal is not just a religious event; it’s a social gathering that fosters community bonds and celebrates shared traditions. The festival reflects the rich Christian heritage of Kerala and its spirit of religious harmony.",
@@ -862,8 +874,8 @@
         "district": "Thrissur",
         "place": "Thrissur",
         "coordinates": {
-          "latitude": 10.5270099,
-          "longitude": 76.214621
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Pulikali**, translating to **\"Tiger Dance,\"** is a spectacularly vibrant and utterly unique folk art form that explodes onto the streets of **Thrissur** district, Kerala, during the joyous **Onam** festivities. This captivating spectacle transforms ordinary men into a mesmerizing kaleidoscope of tigers, their bodies painted with intricate designs that bring the jungle to life. More than just a dance, Pulikali is a powerful expression of community spirit and a vibrant celebration of Kerala's rich cultural heritage. The performers, their torsos and limbs adorned with meticulously applied body paint depicting realistic and fantastical tiger motifs, move to the infectious rhythms of traditional percussion instruments like the **thakil** and **udukku**. These instruments drive the energetic and often humorous dances, as the \"tigers\" prance, prowl, and playfully interact with the cheering crowds. The vibrant colors of the paint, combined with the dynamic movements and rhythmic music, create an unforgettable sensory experience. Pulikali is a visual feast, a testament to the artistic skills and dedication of the performers, embodying the spirit of joy, unity, and cultural pride. This extraordinary art form draws spectators from far and wide, offering a glimpse into the heart and soul of Kerala's traditions.",
@@ -882,8 +894,8 @@
         "district": "Pathanamthitta",
         "place": "Pamba River, Aranmula",
         "coordinates": {
-          "latitude": 9.328515416270054,
-          "longitude": 76.68401688119465
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Aranmula Boat Race**, a captivating spectacle held annually on the serene **Pamba River** in Aranmula, Pathanamthitta district, distinguishes itself from other boat races in Kerala by its deeply rooted ritualistic significance. It transcends a mere sporting competition, serving as a sacred offering to the revered **Aranmula Parthasarathy Temple**. The event showcases Kerala's rich cultural heritage and the strong community bonds that define the region. The majestic snake boats, known as **\"palliyodams,\"** are not merely vessels but are considered sacred entities. Each palliyodam represents a different **\"kara\"** (region or village) and is meticulously maintained and rowed by the villagers as an act of devotion. The race is characterized by a unique blend of athleticism and spirituality. Before the race commences, elaborate rituals are performed to invoke divine blessings and ensure the safety of the participants. Throughout the race, traditional songs, known as **\"vanchipattu,\"** resonate through the air, adding to the devotional atmosphere. The oarsmen, rowing in perfect synchronicity, are driven by their faith and the desire to honor the deity. The Aranmula Boat Race is a testament to the enduring traditions and the unwavering community spirit of Kerala.",
@@ -902,8 +914,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Sreekrishna Jayanthi** is the celebration of the birth of **Lord Krishna**, the eighth avatar of **Lord Vishnu** according to Hindu traditions. The festival is celebrated on the eighth day (**Ashtami**) of the **Krishna Paksha** (dark fortnight) of the Malayalam month of **Chingam** (August–September). Lord Krishna’s birth star is **Rohini**, and if the star and Ashtami occur on the same day, it’s considered to be doubly auspicious. The festival is celebrated with spiritual fervor at all temples dedicated to Lord Krishna. Devotees take a fast on the eve of Sree Krishna Jayanthi and spend the whole night worshipping Lord Krishna and chanting hymns from the holy text **Bhagavatham**. They break the fast at midnight of **Ashtami Rohini**, which is believed to be the time that Lord Krishna was born. The next day is celebrated as **Janmashtami**. The celebration begins with a **Ganapathi homam** (ritual *pooja* to Lord Ganesha) to ward off obstacles. Recitals from **Bhagavad Geetha** and **Gita Govindam** are performed at various temples. Devotees visit temples and make offerings consisting of fruits, betel leaves, and butter. People also dress up their young children as Lord Krishna and attend colorful processions. Ceremonies like **Parayeduppu, Thayambaka, Sheeveli, and Aanayoottu** are also held to mark the occasion.",
@@ -922,8 +934,8 @@
         "district": "Alappuzha",
         "place": "Palli Bhagavathy Temple, Alappuzha",
         "coordinates": {
-          "latitude": 9.39161218557113,
-          "longitude": 76.3552846146643
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Neelamperoor Padayani Festival** at Alappuzha's **Palli Bhagavathy Temple** is a mesmerizing annual event, a unique showcase of Kerala's rich cultural heritage. Held during the Malayalam month of **Chingam** (August/September), this vibrant festival, distinct from other Padayani celebrations, unfolds at the 1700-year-old temple dedicated to **Vanadurga**, marking the **Pooram** asterism with a spectacle known as **Pooram Padayani**. The festival begins with floral decorations shaped like umbrellas, crafted from coconut leaf stems. Over subsequent days, effigies made from green jackfruit leaves are presented. The grand finale features **swan effigies**, culminating in a 45-foot-high swan offered to the deity. Adding to the festival's allure is **Thothakali**, a rhythmic dance performed around a fire, accompanied by traditional music, uniting communities in this vibrant celebration of unity.",
@@ -942,8 +954,8 @@
         "district": "Thiruvananthapuram",
         "place": "Navaratri Mandapam, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.48279685533014,
-          "longitude": 76.94612221724113
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Navaratri Music Festival**, a crown jewel of Kerala's cultural landscape, is an annual nine-day extravaganza held at **Kuthiramalika Palace** within the sacred precincts of the **Sree Padmanabhaswamy Temple** in Thiruvananthapuram. This esteemed festival is a dedicated celebration of music and dance, offering a platform for eminent artists from across India to showcase their talent and artistry. It is a profound tribute to **Goddess Saraswati**, the embodiment of knowledge, wisdom, and the arts, invoking her blessings upon performers and listeners alike. During the festival, the temple's serene atmosphere is further enhanced by the soul-stirring melodies of **Carnatic music** and the graceful movements of classical dance. Renowned vocalists and instrumentalists fill the air with their renditions of devotional compositions, creating a spiritually uplifting experience for all in attendance. The rhythmic patterns and melodic intricacies of the music, combined with the sacred ambience of the temple, transport listeners to a realm of peace and tranquility. The Navaratri Music Festival is an integral part of Kerala's rich cultural heritage, serving as a vital platform for preserving and promoting the traditions of Carnatic music and dance.",
@@ -967,8 +979,8 @@
         "district": "Ernakulam",
         "place": "Vallarpadam Basilica, Ernakulam",
         "coordinates": {
-          "latitude": 9.9899146,
-          "longitude": 76.2501654
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Feast of Vallarpadathamma**, also reverently known as the **Feast of Our Lady of Ransom**, stands as a monumental religious event celebrated with profound devotion at the **Vallarpadam Basilica** in Ernakulam. This significant occasion honors the **Virgin Mary, Vallarpadathamma**, revered for her miraculous powers and compassionate intercession. The feast is a testament to the enduring faith and the inclusive spirit that characterizes Kerala's religious landscape. Drawing thousands of pilgrims from diverse faiths and backgrounds, the feast embodies unity and shared devotion. People from all walks of life converge at the basilica seeking blessings, solace, and healing through the intercession of the Virgin Mary. The festivities encompass a series of special prayers, solemn processions carrying the statue of Our Lady, and a vibrant array of cultural programs showcasing the artistic traditions of the region. The atmosphere during the feast is charged with piety, hope, and a sense of community. The Feast of Vallarpadathamma is a powerful symbol of harmony, fostering understanding and promoting peaceful coexistence within Kerala's multicultural society.",
@@ -987,8 +999,8 @@
         "district": "Kollam",
         "place": "Kallada River, Kollam",
         "coordinates": {
-          "latitude": 9.027176,
-          "longitude": 76.6544597
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kallada Boat Race**, a thrilling spectacle of athleticism and tradition, is a prominent event on the scenic **Kallada River** in the Kollam district. This captivating race showcases the majestic **\"chundan vallams,\"** the iconic snake boats, as they compete head-to-head in a display of strength, skill, and unwavering teamwork. More than just a competition, the Kallada Boat Race is a vibrant celebration of Kerala's rich maritime heritage. Driven by the synchronized strokes of highly skilled rowers, the snake boats slice through the water, their sleek forms reflecting the energy and determination of the teams. The banks of the Kallada River come alive with a massive gathering of spectators, their cheers and applause creating an electrifying atmosphere. Each team receives enthusiastic support as communities rally behind their representatives, adding to the festive spirit. The Kallada Boat Race is an integral part of Kerala's renowned boat race tradition, highlighting the remarkable coordination and physical prowess of the rowers. The event offers a captivating blend of sporting excitement and cultural immersion, creating an unforgettable experience that embodies the spirit of Kerala.",
@@ -1007,8 +1019,8 @@
         "district": "Thrissur",
         "place": "Our Lady of Immaculate Conception Church, Thrissur",
         "coordinates": {
-          "latitude": 10.547647232086744,
-          "longitude": 76.19454304099136
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Koratty Muthy Feast**, a vibrant tapestry of faith and tradition, unfolds annually at the **Our Lady of Immaculate Conception Church** in Koratty, Thrissur district. Reverently known as the feast of **Koratty Muthy** (Mother), this grand celebration draws devotees from far and wide, seeking blessings and solace under the benevolent gaze of the **Blessed Virgin Mary**. It is a testament to the enduring power of faith and the rich cultural heritage of the region. The feast is marked by elaborate processions, where the statue of Our Lady is carried through the streets, accompanied by hymns and prayers. Special religious services and ceremonies are held throughout the day, creating an atmosphere of profound spirituality. Beyond the religious observances, the Koratty Muthy Feast is a celebration of community and culture. The festive atmosphere is further enriched by a variety of cultural performances, showcasing the artistic talents of the local people. Numerous stalls offering religious artifacts, local delicacies, and traditional crafts add to the vibrancy of the event. The Koratty Muthy Feast stands as a powerful symbol of devotion, unity, and the enduring spirit of Kerala.",
@@ -1027,8 +1039,8 @@
         "district": "Alappuzha",
         "place": "Sree Nagaraja Swami Temple, Alappuzha",
         "coordinates": {
-          "latitude": 9.18403569562539,
-          "longitude": 76.61608996724858
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Ayilyam Mahotsavam** at the **Sree Nagaraja Swami Temple** in **Vettikode**, Alappuzha, is an annual spectacle dedicated to the serpent deities, deeply ingrained in Kerala's cultural fabric. Celebrations commence a week prior to the **Ayilyam** asterism in the Malayalam month of **Kanni** (September/October), with each day filled with specific rituals that attract devotees from across the region. A central event is the ceremonial procession between the temple and the **Meppali Illam**, an ancestral Brahmin household, symbolizing the enduring bond between the two. As evening descends, the **Sarpabali** ritual unfolds, performed to appease the serpent gods through offerings and prayers, enveloping the surroundings in an atmosphere of profound devotion and mystical significance. The festival's core beliefs center around the serpent gods' power to bestow prosperity, health, and fertility upon sincere worshipers. A particularly significant ritual, the **Uruli Kamazhthal**, sees childless couples participating beneath the temple's sacred tree. This act is believed to alleviate the **Kalasarpa dosha** (serpent curse) and grant the blessing of children. The Sree Nagaraja Swami Temple is transformed into a visually stunning spectacle, and the culminating event is the grand Sarpabali, considered the most important ritual for protection and prosperity.",
@@ -1047,8 +1059,8 @@
         "district": null,
         "place": "Palakkad",
         "coordinates": {
-          "latitude": 10.7873691,
-          "longitude": 76.4742172
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Rayiranellur Malakayattam**, or the ceremonial forest climb, is a unique pilgrimage that takes place on the sacred hill of **Rayiranellur**, closely tied to the legend of **Naranath Bhranthan**. This ritual climb is observed with great devotion, especially on the first day of the Malayalam month of **Thulam** (October–November), believed to be the day when **Goddess Durga** appeared before Naranath Bhranthan and blessed him. The climb is not merely a physical journey but a symbolic act of faith and reverence. Each year, hundreds of devotees gather at the base of the hill and begin their ascent, retracing the steps of the legendary figure. Naranath Bhranthan is known for his eccentric act of rolling boulders up the hill only to push them down again, becoming a symbol of spiritual depth hidden beneath madness; a grand statue of him now stands atop the hill. Though steps make the climb easier, the act of **Malayakayattam** remains deeply spiritual. Devotees consider the climb a form of penance, a way to connect with the divine energy that the hill is believed to hold. Rayiranellur Malakayattam is a heartfelt tradition where mythology, nature, and devotion come together in a powerful expression of cultural heritage.",
@@ -1067,8 +1079,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Diwali**, the resplendent **Festival of Lights**, illuminates Kerala with its joyous spirit and vibrant celebrations. This auspicious occasion is observed with enthusiasm throughout the state, as people welcome the triumph of good over evil and the symbolic dispelling of darkness with the warm glow of lamps and lights. Diwali in Kerala is a time for family, festivities, and the renewal of hope. Homes are transformed into enchanting havens of light, adorned with traditional oil lamps and twinkling fairy lights. The air is filled with the sweet aroma of traditional delicacies, as families exchange sweets and gifts, strengthening bonds and spreading good cheer. The sound of firecrackers punctuates the night sky, adding to the festive atmosphere and symbolizing the banishment of negativity. Diwali is a time for families to come together, offering special prayers and seeking blessings for prosperity and well-being. It is a celebration of new beginnings, a time to let go of the past and embrace the promise of a brighter future. Reflecting the vibrant cultural traditions of India, Diwali in Kerala is a testament to the enduring values of hope, unity, and the triumph of light over darkness.",
@@ -1087,8 +1099,8 @@
         "district": "Thiruvananthapuram",
         "place": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.4827372,
-          "longitude": 76.9474273
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Alpashi Festival**, a magnificent ten-day spectacle, unfolds annually at the revered **Sree Padmanabhaswamy Temple** in Thiruvananthapuram, immersing the city in a wave of religious fervor and cultural richness. Celebrated with immense devotion and meticulous adherence to tradition, this grand festival offers a glimpse into the heart of Kerala's spiritual heritage. Elaborate rituals, vibrant processions, and captivating performances mark each day, creating an unforgettable experience for both devotees and onlookers. The pinnacle of the Alpashi Festival is undoubtedly the **Arattu procession**, a breathtaking event where the deities of the temple are ceremonially bathed in the **Arabian Sea**. This sacred ritual is accompanied by a symphony of traditional music and the thunderous energy of thousands of devotees lining the streets to witness the procession. The city transforms into a kaleidoscope of colors, as caparisoned elephants, traditional musicians, and devotees adorned in vibrant attire fill the streets. The Alpashi Festival serves as a powerful symbol of unity and devotion, attracting pilgrims and tourists from across the globe.",
@@ -1107,8 +1119,8 @@
         "district": "Pathanamthitta",
         "place": "Parumala St. Peter’s and St. Paul’s Orthodox Church, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.32506780455201,
-          "longitude": 76.53762531638918
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Parumala Perunnal**, a deeply significant annual feast, unfolds at the **Parumala St. Peter's and St. Paul's Orthodox Church** in Pathanamthitta, Kerala. This grand event commemorates the death anniversary of **St. Gregorios**, a revered figure within the Orthodox Christian community and the first canonized saint from Malankara. The Perunnal is a time of profound spiritual reflection, attracting thousands of pilgrims who seek blessings and solace at the saint's tomb. Throughout the festival, the church and its surroundings resonate with the sounds of special prayers, hymns, and devotional songs. Elaborate **processions**, featuring priests and devotees carrying sacred relics and icons, wind their way through the town, creating a spectacle of faith and devotion. Cultural programs, showcasing the artistic talents of the community, further enrich the festive atmosphere. The tomb of St. Gregorios, located within the church, serves as a major pilgrimage site, drawing visitors year-round. Parumala Perunnal is a powerful expression of faith, community, and the enduring legacy of St. Gregorios within the Orthodox Christian tradition in Kerala.",
@@ -1127,8 +1139,8 @@
         "district": "Alappuzha",
         "place": "Mannarassala Sree Nagaraja Temple, Alappuzha",
         "coordinates": {
-          "latitude": 9.28982912451222,
-          "longitude": 76.44647712889193
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Mannarassala Ayilyam**, a festival steeped in ancient traditions and fervent devotion, is the most significant event held at the **Mannarassala Sree Nagaraja Temple** in Alappuzha, Kerala. This sacred temple is dedicated to **Nagaraja**, the serpent god, who is revered as a protector and bestower of blessings. The festival is observed annually on the auspicious **Ayilyam** asterism in the Malayalam month of **Thulam** (October-November), drawing thousands of devotees seeking divine favor. During Mannarassala Ayilyam, the temple complex comes alive with a palpable sense of spiritual energy. Devotees, clad in traditional attire, gather to offer prayers, perform age-old rituals, and seek the blessings of Nagaraja and the serpent deities. The temple is renowned for its unique customs and traditions surrounding serpent worship, passed down through generations. Special offerings, including turmeric powder, rice flour, and milk, are made to appease the serpent gods and seek their protection. Mannarassala Ayilyam serves as a powerful reminder of the deep-rooted beliefs and practices associated with serpent worship in Kerala's cultural landscape.",
@@ -1147,8 +1159,8 @@
         "district": "Palakkad",
         "place": "Sree Viswanatha Swamy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.795117058349687,
-          "longitude": 76.64839589563462
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Kalpathy Ratholsavam**, a magnificent spectacle of devotion and cultural grandeur, is an annual chariot festival held at the ancient **Sree Viswanatha Swamy Temple** in **Kalpathy**, Palakkad. This transforms the tranquil village of Kalpathy into a vibrant hub of religious fervor and artistic expression. The festival is a testament to the rich heritage and traditions of Palakkad, drawing large crowds from across Kerala and beyond. The heart of Kalpathy Ratholsavam lies in its elaborately decorated **chariots**, or **\"rathams,\"** which carry the deities of the Sree Viswanatha Swamy Temple through the streets of the village. These majestic chariots, adorned with intricate carvings and colorful embellishments, are pulled by devotees, symbolizing their devotion and participation in the divine journey. The processions are accompanied by the rhythmic beats of traditional music and the enthusiastic cheers of the assembled crowds. Kalpathy Ratholsavam is more than just a religious festival; it is a cultural extravaganza that showcases the artistic talents and community spirit of the region. The event provides a platform for preserving and promoting traditional art forms, offering a glimpse into the enduring power of faith and tradition.",
@@ -1167,8 +1179,8 @@
         "district": "Thiruvananthapuram",
         "place": "Madre de Deus Church, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.4942033,
-          "longitude": 76.9001821
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Vettukadu Feast**, also reverently known as the **Feast of Christ the King**, is a deeply significant religious celebration that unfolds annually at the historic **Madre de Deus Church** in **Vettukadu**, Thiruvananthapuram. This grand event, held each November, attracts devotees from diverse faiths and backgrounds, creating a vibrant tapestry of spiritual unity. The feast is a testament to the region's religious harmony and enduring cultural heritage. The Vettukadu Church, a prominent landmark renowned for its distinctive **Portuguese architecture**, provides a stunning backdrop for the festivities. The feast is characterized by elaborate **processions**, where the statue of Christ the King is carried through the streets, accompanied by hymns and prayers. Special religious services and ceremonies are held throughout the day, creating an atmosphere of profound devotion and spiritual reflection. Devotees offer heartfelt prayers, participate in religious services, and seek blessings. The festive atmosphere is further enhanced by numerous stalls selling religious items, traditional crafts, and local delicacies. The Vettukadu Feast is a celebration of community, faith, and the enduring power of spirituality to unite people from all walks of life.",
@@ -1187,8 +1199,8 @@
         "district": "Kollam",
         "place": "Oachira Parabrahma Temple, Kollam",
         "coordinates": {
-          "latitude": 9.1357571,
-          "longitude": 76.5105165
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Oachira Kalakettu**, a truly distinctive and awe-inspiring ritual, is an integral part of the annual **Oachira Kali** festival celebrated at the **Oachira Temple** in Kollam, Kerala. What sets this temple apart is its unique reverence for the universal consciousness, or **Parabrahman**, rather than a specific deity. This spiritual philosophy is beautifully embodied in the Kalakettu ritual. The Kalakettu involves the construction of massive **effigies of bulls**, the symbolic vehicle (**vahana**) of **Lord Shiva**, crafted from straw and vibrant cloth. These towering structures, often reaching impressive heights, are a testament to the artistic skill and community spirit of the region. During the festival, these majestic bull effigies are paraded around the temple grounds in grand processions, accompanied by the rhythmic beats of traditional music and the enthusiastic participation of devotees. After the procession, the effigies are symbolically destroyed, representing the annihilation of ego and illusion – a core tenet of the temple's philosophy. The Oachira Kalakettu is a vibrant expression of the region's culture and the unique spiritual essence of the Oachira Temple.",
@@ -1207,8 +1219,8 @@
         "district": "Ernakulam",
         "place": "Sree Poornathrayeesha Temple, Thrippunithura, Ernakulam",
         "coordinates": {
-          "latitude": 9.945179669236184,
-          "longitude": 76.34314217862514
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Thrippunithura Arattu**, a resplendent and deeply revered event, marks the grand culmination of the annual festival at the **Sree Poornathrayeesha Temple** in Thrippunithura, Ernakulam. This sacred ritual is the apex of the festivities, a breathtaking spectacle where the deity's idol is taken in a magnificent procession to a pond for a **ceremonial bath**, symbolizing purification and renewal. It's a time when faith, tradition, and community converge in a powerful display of devotion. The procession itself is an awe-inspiring sight, a symphony of colors, sounds, and movements. **Caparisoned elephants**, adorned with intricate ornaments and vibrant fabrics, lead the way, their majestic presence lending an air of regal splendor. Traditional music, played on percussion and wind instruments, fills the air with devotional melodies, while the streets are lined with vibrant decorations, creating a festive atmosphere. Thousands of devotees participate in this auspicious event, their hearts filled with reverence and devotion. They gather to seek blessings, witness the grandeur of the temple traditions, and partake in the spiritual energy that permeates the air. The Thrippunithura Arattu is a living testament to the rich cultural and religious heritage of Kerala.",
@@ -1227,13 +1239,17 @@
         "district": "Thrissur",
         "place": "Guruvayur Sree Krishna Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.5942942,
-          "longitude": 76.0394112
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Guruvayur Ekadashi**, a day steeped in profound devotion and spiritual significance, is dedicated to **Lord Krishna** and celebrated with immense fervor at the sacred **Guruvayur Temple** in Thrissur district. This highly auspicious occasion falls on the eleventh day (**Ekadashi**) of the **Shukla Paksha** (bright fortnight) in the Malayalam month of **Vrischikam** (November-December). Guruvayur Ekadashi is a deeply cherished event that draws large crowds of devotees seeking blessings and divine grace. The day is marked by a series of elaborate rituals and special prayers, offered with unwavering faith and devotion. **Processions**, featuring caparisoned elephants and traditional music, add to the festive atmosphere. Throughout the day and night, various cultural performances, including classical music and dance, are held. Many devotees observe a strict **fast** on Guruvayur Ekadashi, abstaining from food and engaging in intense religious activities, such as chanting mantras, reading scriptures, and participating in devotional singing. Guruvayur Ekadashi is a powerful expression of faith, a time for spiritual reflection, and a celebration of the eternal bond between Lord Krishna and his devotees.",
       "images": [],
-      "tags": ["Temple Festival", "Dance Festival", "Music Festival"]
+      "tags": [
+        "Temple Festival",
+        "Dance Festival",
+        "Music Festival"
+      ]
     },
     {
       "id": 66,
@@ -1247,8 +1263,8 @@
         "district": "Kottayam",
         "place": "Vaikom Mahadeva Temple, Kottayam",
         "coordinates": {
-          "latitude": 9.7499382,
-          "longitude": 76.3959311
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Vaikathashtami**, a renowned and deeply revered festival, unfolds annually as a twelve-day celebration at the **Vaikom Mahadeva Temple** in Kottayam, typically held in November-December. This is one of the most significant temple festivals in the region, dedicated to **Lord Shiva**. The festival commemorates the auspicious occasion when Lord Shiva and his consort **Parvathy Devi** appeared before sage **Vyaghrapada**. The highlight of Vaikathashtami is the spectacular **grand procession**, a mesmerizing display of faith and tradition. Caparisoned elephants lead the procession, followed by traditional music ensembles and an array of captivating cultural art forms, reflecting Kerala's rich artistic heritage. The procession originates from nearby temples and gradually converges at the Vaikom Mahadeva Temple, creating an awe-inspiring sight of unity and devotion. Thousands of devotees participate, their hearts filled with reverence as they seek the blessings of Lord Shiva. The temple is renowned for its unique rituals, adding to the distinctiveness of Vaikathashtami, and offering a culturally rich and spiritually uplifting experience.",
@@ -1267,8 +1283,8 @@
         "district": "Pathanamthitta",
         "place": "St. Mary’s Church, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.1520566,
-          "longitude": 76.7323794
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Niranam Valiyapally Perunnal**, held annually at the **St. Mary’s Orthodox Syrian Church** in Niranam, Pathanamthitta district, is a significant Christian festival in Kerala celebrated in December. It commemorates the establishment of the church, believed to be one of the seven churches founded by **St. Thomas the Apostle** in AD 54. This ancient church, steeped in history and tradition, becomes a focal point for devotees who gather to participate in the religious observances and festivities. The Perunnal is characterized by special prayers, Holy Mass, and **processions** that reflect the rich Christian heritage of the region. A key highlight is the ceremonial procession, where elaborately decorated floats and traditional music create a vibrant spectacle. The church, beautifully adorned with lights and decorations, provides a serene and spiritual backdrop. Beyond the religious aspects, the festival serves as a social gathering, fostering community bonds and celebrating shared traditions. It is a testament to the enduring legacy of St. Thomas and the deep-rooted Christian faith in Kerala.",
@@ -1287,8 +1303,8 @@
         "district": null,
         "place": "Kerala",
         "coordinates": {
-          "latitude": 10.3528744,
-          "longitude": 76.5120396
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Christmas** is a time of profound joy, peace, and goodwill, celebrated with great fervor and boundless enthusiasm by the people of Kerala. This significant holiday transforms homes and churches into beacons of festive cheer, reflecting the true spirit of the season. The celebrations are deeply rooted in religious observance and infused with vibrant cultural traditions. Churches are adorned with elaborate decorations, twinkling lights, and **nativity scenes**, creating a serene and reverent atmosphere. Special **midnight mass** services are held, where carols fill the air with melodies of hope and joy. Families come together to exchange gifts, strengthening bonds and spreading warmth. Festive meals, featuring traditional Kerala cuisine and Christmas delicacies, are shared with loved ones, creating lasting memories. The preparation of traditional sweets and delicacies, such as rich **plum cakes** and flavorful snacks, is an integral part of the celebrations. Sweets and the spirit of generosity are shared with family, friends, and neighbors. Christmas in Kerala is a time to reflect on the message of peace and love and celebrate the birth of **Jesus Christ**.",
@@ -1307,8 +1323,8 @@
         "district": null,
         "place": "Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.4882267,
-          "longitude": 76.947551
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Flower Shows** (such as **Vasantholsavam**) burst into life across various locations in Kerala, painting the landscape with vibrant hues and fragrant aromas. These meticulously organized events are a testament to the state's rich horticultural heritage and its deep appreciation for the beauty of nature. Showcasing a breathtaking array of flowers, exotic plants, and meticulously crafted horticultural displays, these shows draw a diverse audience of enthusiasts, nature lovers, and curious tourists. More than just a visual spectacle, these flower shows provide a valuable platform for learning about different plant species, horticultural techniques, and the importance of **environmental conservation**. They often feature competitions, where skilled gardeners and horticulturists showcase their talents, and exhibitions displaying innovative gardening concepts. Workshops and demonstrations offer practical knowledge and inspire attendees to cultivate their own green spaces. These vibrant events contribute significantly to promoting environmental awareness and fostering a deeper appreciation for the natural world. They are a celebration of nature's artistry and a call for environmental stewardship.",
@@ -1327,8 +1343,8 @@
         "district": null,
         "place": "Kozhikode",
         "coordinates": {
-          "latitude": 11.2450558,
-          "longitude": 75.7754716
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Beypore International Water Festival**, held in Kozhikode district, celebrates Kerala's rich maritime heritage and vibrant water sports culture. This multi-day event, typically held in December, transforms the historic **Beypore port** into a hub of thrilling activities and cultural performances. The festival showcases a variety of **water sports**, including kayaking, canoeing, and sailing, with participation from both professional athletes and amateur enthusiasts. Beyond the sporting events, the festival features cultural programs, including traditional music and dance performances, highlighting the region's rich cultural heritage. Food stalls offering local delicacies add to the festive atmosphere. The festival aims to promote tourism and create awareness about water conservation and sustainable practices. The historic Beypore port, known for its ancient shipbuilding traditions, provides a unique backdrop for the event. The Beypore International Water Festival is a vibrant celebration of water sports, culture, and community spirit, solidifying Kerala's reputation as a premier tourism destination.",
@@ -1347,8 +1363,8 @@
         "district": "Kasaragod",
         "place": "Bekal Beach, Kasaragod",
         "coordinates": {
-          "latitude": 12.3878684,
-          "longitude": 75.0411278
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Bekal International Beach Festival**, a vibrant tapestry of culture and coastal charm, unfolds annually on the picturesque **Bekal beach** in the northern Kasaragod district of Kerala. This grand celebration is a showcase of the region's rich artistic heritage, offering a captivating blend of music, dance, and diverse art forms that resonate with both tourists and local communities. It’s an event that transforms the stunning Bekal coastline into a dynamic stage for cultural expression. With the majestic **Bekal Fort** silhouetted against the Arabian Sea as its backdrop, the festival provides an unforgettable setting. The festival grounds come alive with colorful displays, lively performances, and a palpable sense of excitement, drawing visitors from far and wide. The Bekal International Beach Festival is a strategic initiative that promotes the Kasaragod district as a must-visit destination, highlighting the region's natural beauty, rich cultural heritage, and warm hospitality. It stands as a testament to the power of culture to attract visitors and create lasting memories.",
@@ -1367,8 +1383,8 @@
         "district": "Thiruvananthapuram",
         "place": "Beemapally Dargah Shareef, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.45673802089848,
-          "longitude": 76.93548266234646
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Beemapally Uroos**, a vibrant and culturally rich Muslim festival, unfolds annually at the **Beemapally Dargah Shareef** in Thiruvananthapuram. This ten-day celebration commemorates **Syedunnisa Beema Beevi**, a pious woman believed to possess miraculous powers, and her son, **Syedu Shuhada Maheen Abubacker**. The Dargah, her final resting place, becomes a focal point for devotees seeking blessings and solace. During the Uroos, the Dargah is adorned with lights and decorations. A significant ritual involves offering **sandalwood paste (chandanakkudam)** and incense, signifying reverence and devotion. Colorful **processions** wind through the streets, showcasing the rich cultural heritage of the region. **Annadanam**, the offering of free food to all, is a prominent feature, reflecting the spirit of generosity and compassion. The Beemapally Uroos draws devotees from all faiths, highlighting Kerala's tradition of **religious harmony**. It's a time for spiritual reflection, community bonding, and celebrating the life and legacy of a revered figure.",
@@ -1387,8 +1403,8 @@
         "district": "Kozhikode",
         "place": "Kozhikode Beach, Kozhikode",
         "coordinates": {
-          "latitude": 11.255511,
-          "longitude": 75.7697038
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kerala Literature Festival (KLF)**, held annually in Kozhikode, is one of Asia's largest literature festivals, drawing writers, thinkers, and enthusiasts from across the globe. Usually held in January or February, the festival transforms the beach into a vibrant hub of intellectual exchange. KLF offers a diverse program featuring **panel discussions, debates, author interactions, workshops, and cultural performances**. Renowned authors, poets, artists, and academics participate, engaging audiences on a wide range of topics, from literature and politics to social issues. The festival provides a platform for both established and emerging voices, fostering dialogue and celebrating the power of words. Beyond the literary sessions, KLF showcases Kerala's rich cultural heritage through music, dance, and theatre performances. Bookstalls, food stalls, and art exhibitions add to the festival's lively atmosphere. The Kerala Literature Festival is more than just a literary event; it's a celebration of ideas, creativity, and the human spirit, solidifying Kerala's reputation as a land of letters and culture.",
@@ -1407,8 +1423,8 @@
         "district": null,
         "place": "Pathanamthitta",
         "coordinates": {
-          "latitude": 9.2780841,
-          "longitude": 76.9737443
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Erumeli Chandanakudam** is a glowing example of Kerala’s legendary **religious harmony**. The festival is held at the **Nainar Mosque (Vavar Palli)** dedicated to **Vavar Swamy**, a Muslim man believed to be the friend and compatriot of **Lord Ayyappa**. It is mandatory for Ayyappa devotees to pay respects to Vavar before going to the Sabarimala Temple. The Chandanakudam festival is held a day before the famed **Erumeli Petta Thullal** (a ceremonial trance dance by Ayyappa devotees) and is conducted by the Mahalla Muslim Jama-ath. The festival begins with a **Malisa procession** that covers major dedicated spots and returns to the mosque in the evening. The main **Chandanakudam procession** begins later with the accompaniment of **chenda melam** and **Shinkari melam** (traditional drums orchestra), **Kottakavadi**, and band music. Ayyappa devotees and the Muslim community take part in this celebration in a showcase of universal brotherhood and solidarity that cuts across religion.",
@@ -1432,8 +1448,8 @@
         "district": "Pathanamthitta",
         "place": "Sabarimala Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.4345886,
-          "longitude": 77.0813869
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Makaravilakku** is a centuries-old annual Hindu festival held in Kerala, marking the culmination of the pilgrimage to the **Sabarimala temple** in Pathanamthitta District, dedicated to **Lord Ayyappa**. The festival is held on the **Makara Sankrama** night, which falls between Jan 14-16. Millions of devotees from various parts of India take a mandatory 41-day fast and visit the temple to seek the blessings of Lord Ayyappa. The seven-day festival begins with the ceremonial **Thiruvabharana Ghoshayathra** (sacred ornaments procession), led by a member of the Pandalam royal family, which reaches Sannidhanam (Sabarimala temple complex) on the eve of Makaravilakku. The festival ends with **Guruthi Puja**. Devotees believe that witnessing the **Makarajyothi** (celestial light) and attending the Mandala Puja will bring peace and prosperity for the entire year.",
@@ -1452,8 +1468,8 @@
         "district": "Ernakulam",
         "place": "Kanjiramattom Mosque, Ernakulam",
         "coordinates": {
-          "latitude": 9.8488032,
-          "longitude": 76.4068209
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kanjiramattom Kodikuthu**, also known as the **Kanjiramattom Nercha**, is an annual festival held at the **Kanjiramattom Juma Masjid** in Ernakulam district. A key highlight is the **Kodikuthu ceremony**, the hoisting of a ceremonial flag, marking the commencement of the festivities. The mosque and surrounding areas are beautifully decorated, creating a festive atmosphere. Special prayers, religious discourses, and cultural programs are held throughout the event. A grand **procession**, featuring caparisoned elephants and traditional music, is a major attraction. **Annadanam**, the offering of free food, is a significant aspect of the festival, feeding thousands of attendees. The festival attracts devotees from various faiths, symbolizing **religious harmony** and cultural unity. It reflects the syncretic traditions of Kerala, blending elements of Sufi Islam and local customs. The Kanjiramattom Kodikuthu is a vibrant expression of faith, unity, and cultural heritage.",
@@ -1472,8 +1488,8 @@
         "district": "Alappuzha",
         "place": "St. Andrew's Basilica, Arthunkal, Alappuzha",
         "coordinates": {
-          "latitude": 9.6611166,
-          "longitude": 76.3004167
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Arthunkal Perunnal**, also known as the **Feast of St. Sebastian**, is a grand annual festival held at the **St. Andrew's Basilica** in Arthunkal, Alappuzha district, celebrated every January. This vibrant event attracts devotees from all faiths and backgrounds. The feast honors **St. Sebastian**, believed to possess the power to heal and protect. The festival is noted for religious rituals, **processions**, and cultural performances. A key highlight is the carrying of the statue of St. Sebastian in a grand procession through the town. Devotees participate in various devotional practices, including **crawling on their knees** from the nearby beach to the church, a symbolic act of penance and faith. Special masses and prayers are held throughout the festival. Beyond its religious significance, the Arthunkal Perunnal fosters community spirit and promotes harmony. The festival reflects the **syncretic traditions of Kerala**, blending Christian faith with local customs, and is a testament to the state's spirit of religious tolerance.",
@@ -1492,8 +1508,8 @@
         "district": "Kottayam",
         "place": "St. Mary's Forane Church, Kottayam",
         "coordinates": {
-          "latitude": 9.7544153,
-          "longitude": 76.5649302
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Athirampuzha Perunnal** is held annually from January 19-26 at the **St. Mary's Forane Church** in Athirampuzha, Kottayam district. This centuries-old festival is held to venerate the **martyrdom of St. Sebastian**. One of the oldest in the country, the church was consecrated in 835 CE. The statue of St. Sebastian, believed to have been brought from Portugal, is also known as the **Adiyelpicha Roopam** (the tortured figure) as it is the only one in the world without the arrows thrust on the body. The feast was first celebrated in 1647 and has continued ever since. Thousands of devotees from across the world attend the festival, which begins with a ceremonial flag-hoisting on January 19. The main highlight is the **grand procession** carrying the statue of St. Sebastian around the town, followed by devotees carrying ornate umbrellas, crosses made of gold, silver, bronze, and wood, accompanied by band music, firework, and spectacular displays. After the 26th, the festival is extended for eight more days with **Ettamidam**.",
@@ -1512,8 +1528,8 @@
         "district": "Alappuzha",
         "place": "Harippad Sree Subramanya Swamy Temple, Alappuzha",
         "coordinates": {
-          "latitude": 9.292218858751454,
-          "longitude": 76.46358434539509
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Harippad Thaipooyam Mahotsavam**, celebrated at the **Sree Subramanya Swamy Temple** in Harippad, Alappuzha district, is a vibrant festival dedicated to **Lord Murugan (Subramanya)**. This grand event, typically held in January or February, commemorates the day **Goddess Parvati gifted Lord Murugan a Vel** (divine spear) to vanquish the demon Soorapadman. The festival is marked by elaborate rituals, processions, and the **Kavadi Attam**, a ceremonial dance offering. Devotees carry decorated **Kavadis**, wooden arches adorned with flowers, peacock feathers, and images of deities, on their shoulders as they proceed to the temple. The Kavadi Attam involves rhythmic movements and devotional songs, showcasing the devotees' fervor. The procession, featuring caparisoned elephants and traditional music, adds to the festive atmosphere. The temple and its surroundings are beautifully decorated, creating a visually stunning spectacle. The festival serves as a cultural celebration, fostering community bonds and preserving traditional art forms, and is a testament to the enduring faith and cultural unity of the region.",
@@ -1532,8 +1548,8 @@
         "district": "Kannur",
         "place": "Andalur Kavu, Kannur",
         "coordinates": {
-          "latitude": 11.8019688,
-          "longitude": 75.4838806
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Andalur Kavu Theyyam**, also known as **Andalur Kavu Kaliyattam**, is a spectacular annual festival held at the **Andalur Kavu** in Dharmadom, Kannur district. This vibrant event showcases the ancient ritualistic art form of **Theyyam**, deeply rooted in the cultural and religious traditions of North Kerala. The festival, typically held in February or March, spans several days and features a diverse range of Theyyam performances, each with its unique costumes, makeup, and music. **Theyyam deities**, believed to be embodiments of gods and ancestral spirits, interact with devotees, offering blessings and guidance. The festival is particularly significant for its portrayal of the deity, a folk hero revered for his bravery and justice. The performances are characterized by **elaborate costumes, intricate facial paintings, and dynamic movements**, creating a mesmerizing spectacle. The atmosphere is filled with energy and devotion as Theyyam performers embody the divine. The festival serves as a community celebration, fostering social bonds and preserving the traditional customs and enduring power of Theyyam as a living art form.",
@@ -1552,8 +1568,8 @@
         "district": "Pathanamthitta",
         "place": "Sree Parthasarathy Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.3119168,
-          "longitude": 76.8149182
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Adoor Gajamela**, held annually at the **Sree Parthasarathy Temple** in Adoor, Pathanamthitta district, is a spectacular festival showcasing the cultural richness of Kerala. Typically held in January, the Gajamela coincides with the temple's annual festival. The highlight is the majestic **procession of caparisoned elephants** (**Gajamela**), accompanied by traditional percussion music. These gentle giants parade through the town, carrying deities and captivating the onlookers, creating a vibrant and unforgettable spectacle. The festival attracts devotees and tourists alike, drawn by the unique blend of religious observance and cultural display. The Sree Parthasarathy Temple, dedicated to **Lord Krishna**, provides a serene backdrop for the festivities. Beyond the elephant procession, the Adoor Gajamela includes traditional art forms and classical music concerts, adding to the cultural vibrancy. The festival embodies the spirit of Kerala's temple festivals, blending devotion, tradition, and community celebration.",
@@ -1572,8 +1588,8 @@
         "district": "Thrissur",
         "place": "Machattu Thara Bhagavathy Temple, Vadakkancherry, Thrissur",
         "coordinates": {
-          "latitude": 10.619574790357479,
-          "longitude": 76.52823511781368
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Machattu Mamangam** is a unique temple festival held annually at the **Machattu Thara Bhagavathy Temple** in Vadakkancherry, Thrissur. This grand event, celebrated with immense fervor, offers a captivating glimpse into Kerala’s rich cultural heritage. The highlight is undoubtedly the **procession of elaborately decorated Kuthirakolams** – effigies of horses – each representing a different village. These majestic structures, adorned with shimmering fabrics, intricate carvings, and vibrant colors, are paraded through the village accompanied by traditional music and dance forms like **Theyyam** and **Poothan**. The air buzzes with excitement as devotees and tourists alike gather to witness this visual feast. The rhythmic beats of percussion instruments, the captivating performances, and the sheer grandeur of the Kuthirakolams create an unforgettable experience. Machattu Mamangam is deeply rooted in faith and community, serving as a time for families to come together, strengthen bonds, and pay homage to the goddess.",
@@ -1592,8 +1608,8 @@
         "district": "Palakkad",
         "place": "Pariyanampetta Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.879821629459533,
-          "longitude": 76.40358679564311
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Pariyanampetta Pooram**, held annually at the **Pariyanampetta Bhagavathy Temple** in Palakkad district, is one of Kerala's most spectacular and culturally rich temple festivals. Celebrated in February or March, this grand event attracts devotees from across the region. The Pooram is renowned for its magnificent **procession of caparisoned elephants**, a hallmark of Kerala's temple festivals. The elephants, adorned with ornate decorations and accompanied by traditional percussion music, parade through the temple grounds. Adding to the visual feast are elaborate floats, showcasing scenes from Hindu mythology and local folklore. These intricately crafted displays reflect the artistic skills and cultural creativity of the region. Pariyanampetta Pooram is not just a religious event; it's a community celebration, fostering social harmony and preserving traditional art forms. The festival includes performances of classical music, traditional dances, and other cultural programs, offering a glimpse into the heart of Kerala's temple culture.",
@@ -1612,8 +1628,8 @@
         "district": "Thrissur",
         "place": "Sree Ruthira Mahakalikavu Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.541355473577998,
-          "longitude": 76.32325265202503
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Uthralikkavu Pooram**, held annually at the **Sree Ruthira Mahakalikavu Temple** in Wadakkancherry, Thrissur district, is a vibrant and spectacular festival renowned for its competitive spirit and grand display of cultural traditions. Celebrated in February or March, this Pooram draws massive crowds from across Kerala. What sets it apart is the friendly rivalry between the neighboring villages of Enkakkad, Kumaranellur, and Wadakkancherry. Each village presents its own **procession of caparisoned elephants**, elaborate floats, and traditional percussion ensembles, vying for the title of the best display. The rhythmic beats of the **Panchavadyam** and other traditional percussion instruments create an electrifying atmosphere. The sky is illuminated with colorful **fireworks**, adding to the visual spectacle. The festival is a community celebration that fosters social harmony and preserves traditional art forms, blending devotion, competition, and artistic expression into a truly unforgettable experience.",
@@ -1632,8 +1648,8 @@
         "district": "Pathanamthitta",
         "place": "Mar Ignatius Manjanikkara Dayara, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.249318518014661,
-          "longitude": 76.7434510080006
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The annual **Manjanikkara Perunnal**, held at the **Manjanikkara Church** (Mar Ignatius Manjanikkara Dayara) near Pathanamthitta, is a deeply spiritual event that draws thousands of faithful each year. This festival, observed in February, marks a period of intense devotion and remembrance. At the heart of the celebration is the memory of **Patriarch Mar Ignatius Elias III**, whose tomb rests within the church premises. The festival is a powerful expression of unity and spiritual reverence, with pilgrims traveling on foot from distant places to reach the church. The celebrations begin with the Patriarchal **flag hoisting**, followed by special **Qurbana** (Holy Mass) on the first and second days. The church comes alive with prayers, spiritual talks, and community offerings. Programs dedicated to social welfare, like palliative care initiatives, reflect the festival’s spirit of compassion. The festivities culminate in a grand **procession** and distribution of offerings, leaving the devotees spiritually fulfilled.",
@@ -1652,8 +1668,8 @@
         "district": "Pathanamthitta",
         "place": "Pamba River banks, Kozhencherry, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.334743393802292,
-          "longitude": 76.70282742930698
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Maramon Convention** is a remarkable spiritual gathering held annually on the vast **sandbanks of the Pamba River** near Kozhencherry, in Pathanamthitta district. This eight-day event, typically held in February, brings together tens of thousands of believers in an atmosphere filled with prayer, reflection, and spiritual renewal. It is organized by the **Mar Thoma Evangelistic Association**, the missionary wing of the Mar Thoma Church. Under a massive temporary tent, people from all walks of life come together to listen to **sermons**, participate in collective **worship**, and reaffirm their spiritual commitments. The convention is a platform for renewal, learning, and community bonding, with each day featuring soulful hymns and passionate messages. Since its beginnings in the late 19th century, the Maramon Convention has grown into a significant symbol of steadfast faith and collective devotion.",
@@ -1672,8 +1688,8 @@
         "district": "Thiruvananthapuram",
         "place": "Kanakakkunnu Palace, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.5106528,
-          "longitude": 76.9581002
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Nishagandhi Dance Festival**, held annually at the Nishagandhi auditorium in Thiruvananthapuram, is a prestigious, week-long event celebrating the diversity and richness of **Indian classical dance forms**. Typically held in January or February, the festival showcases renowned dancers from across the country. It provides a platform for various styles, including **Bharatanatyam, Kathak, Kuchipudi, Mohiniyattam, and Odissi**. Each evening features captivating performances by leading exponents of these art forms, attracting dance enthusiasts and cultural aficionados. Set against the backdrop of the illuminated **Kanakakkunnu Palace**, the auditorium creates a magical ambiance. The festival promotes cultural tourism and enhances Kerala's reputation as a land of art and culture. It is a vibrant cultural event that is a celebration of India's cultural heritage and the dedication of artists who preserve these ancient traditions.",
@@ -1692,8 +1708,8 @@
         "district": "Thrissur",
         "place": "Koorkancherry Sree Maheswara Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.502784913269712,
-          "longitude": 76.21311579397387
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Koorkancherry Thaipooyam Mahotsavam**, celebrated at the **Sree Maheswara Temple** in Koorkancherry, Thrissur district, is a vibrant and culturally rich festival dedicated to **Lord Murugan (Subramanya)**. Held annually, typically in January or February, this event marks the occasion when **Goddess Parvati** presented Lord Murugan with the Vel (divine spear). The festival is characterized by elaborate **processions**, traditional music, and the unique **Kavadi Attam** dance. Devotees, often adorned in saffron attire, carry decorated **Kavadis** as an offering to Lord Murugan. The Kavadi Attam is a mesmerizing performance, involving rhythmic steps and devotional songs, showcasing their devotion. The Sree Maheswara Temple and its surroundings are beautifully decorated, creating a festive and spiritual atmosphere. The festival provides a platform for various traditional art forms and reinforces cultural bonds, serving as a testament to the enduring faith and vibrant traditions of Kerala.",
@@ -1712,8 +1728,8 @@
         "district": "Palakkad",
         "place": "Pattambi, Palakkad",
         "coordinates": {
-          "latitude": 10.8048616,
-          "longitude": 76.1780161
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Pattambi Nercha**, held annually in Pattambi, Palakkad district, is a vibrant and culturally significant festival that honors the revered Muslim saint, **Aloor Valiya Pookunjikoya Thangal**. This week-long celebration, typically held in January or February, attracts devotees from various faiths, showcasing **religious harmony**. A key highlight is the grand **procession** featuring elaborately decorated floats and **caparisoned elephants**. These colorful floats depict scenes from Islamic history and local folklore, creating a captivating spectacle. Traditional music, including percussion instruments and devotional songs, adds to the festive atmosphere. The Pattambi Nercha is not just a religious event; it's a social gathering that fosters community bonds and celebrates shared traditions. The festival reflects the **syncretic traditions of Kerala**, blending elements of Islam and local customs, and stands as a testament to the state's long history of religious tolerance.",
@@ -1732,8 +1748,8 @@
         "district": "Alappuzha",
         "place": "Chettikulangara Bhagavathy Temple, Alappuzha",
         "coordinates": {
-          "latitude": 9.227748840751996,
-          "longitude": 76.51782733868554
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Chettikulangara Bharani**, celebrated at the **Chettikulangara Devi Temple** in Mavelikkara, Alappuzha district, is a vibrant and unique festival dedicated to **Goddess Bhagavathy**. This annual event, held in February or March, is famous for its spectacular **Kettukazhcha procession** and **Kumbha Bharani** offerings. The Kettukazhcha is a grand procession featuring towering structures of chariots (**Theru**), effigies of horses (**Kuthira**), and Bhima made by the villagers. These massive and intricately decorated creations are brought to the temple as offerings, showcasing the artistic skills and communal harmony of the region. The day is marked by vibrant processions and devotional songs, creating a highly charged spiritual atmosphere. The Chettikulangara Bharani attracts devotees from across Kerala and beyond, and is a celebration of community spirit, artistic expression, and Kerala’s rich cultural heritage.",
@@ -1752,8 +1768,8 @@
         "district": "Kottayam",
         "place": "Ettumanoor Mahadeva Temple, Kottayam",
         "coordinates": {
-          "latitude": 9.673746000659735,
-          "longitude": 76.56098587916912
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Ezhara Ponnana**, meaning \"seven and a half golden elephants,\" is a rare and valuable treasure unique to the **Ettumanoor Mahadeva Temple** in Kottayam district. This treasure is displayed only during the annual festival, a ten-day event celebrated in February or March. The Ezhara Ponnana consists of **seven large golden elephants and one smaller one**, all intricately crafted and highly revered. They are considered immensely sacred and are brought out for public viewing only during the annual festival. The festival itself is a grand celebration, marked by vibrant processions, traditional music, and cultural performances. The **Ezhara Ponnana procession** is the highlight of the festival, drawing devotees from across Kerala. The sight of these golden elephants, glittering in the temple lights, is a truly awe-inspiring experience. It is believed that witnessing the Ezhara Ponnana brings prosperity and blessings, and it represents the rich cultural heritage and artistic traditions of Kerala.",
@@ -1772,8 +1788,8 @@
         "district": "Thrissur",
         "place": "Guruvayur Sree Krishna Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.5942942,
-          "longitude": 76.0394112
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Guruvayur Aanayottam**, or **elephant race**, is a thrilling and deeply symbolic event that marks the ceremonial beginning of the ten-day annual festival at the **Guruvayur Sree Krishna Temple** in Thrissur. This grand tradition is held in the Malayalam month of **Kumbham** (February–March). The race is a sacred ritual that blends tradition with awe-inspiring spectacle. As the day begins, the elephants line up and charge forward in a powerful yet dignified display toward the temple's eastern entrance, which is the finish line. The elephant that reaches first is celebrated with special honors, receiving the privilege of leading temple processions and rituals for the entire year. More than a contest, the Aanayottam is a moment of spiritual connection and community pride, inviting devotees into days filled with rituals, music, and deep religious fervor.",
@@ -1792,8 +1808,8 @@
         "district": "Ernakulam",
         "place": "Chottanikkara Devi Temple, Ernakulam",
         "coordinates": {
-          "latitude": 9.9333161,
-          "longitude": 76.3911605
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Chottanikkara Makam Thozhal** is one of the most prominent festivals held in Kerala, a seven-day observance celebrated annually at the **Chottanikkara Bhagavathy Temple** near Kochi. The festival begins with a ceremonial flag hoisting. Rituals like **Para Ezhunnellippu** (a ceremonial procession) and **Arattu** (ritual bathing of the idol) are performed daily. The main ceremony is **Makam Thozhal** (honouring the Goddess), which is believed to help marriageable women find suitable husbands. The **Pooram Ezhunnellippu** is a ceremonial procession carrying divine idols on elephants. The festival culminates with the Arattu, after which the idols of the goddess and Sastha (Lord Ayyappan) are carried on elephants toward the festival ground. Thousands of devotees throng the temple to catch a glimpse of the goddess decked in all her jewelry for the auspicious Makam Darshan and seek blessings.",
@@ -1812,8 +1828,8 @@
         "district": "Palakkad",
         "place": "Chinakkathoor Bhagavathy Temple, Palakkad",
         "coordinates": {
-          "latitude": 10.771067883050792,
-          "longitude": 76.41914389452367
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Chinakkathoor Pooram**, held annually at the **Chinakkathoor Bhagavathy Temple** in Palappuram, Palakkad district, is a vibrant and visually stunning festival celebrated for its spectacular procession of caparisoned elephants and unique cultural performances. This grand event typically takes place in February or March. The festival's highlight is the magnificent parade of approximately **33 elephants**, adorned with ornate decorations and carrying deities. The rhythmic beats of traditional percussion instruments, such as the **Panchavadyam** and **Chenda Melam**, create an electrifying atmosphere. Adding to the visual spectacle are various folk art forms, including **Karivela** and **Poothanum Thirayum**. Chinakkathoor Pooram is a community celebration that fosters social harmony and preserves traditional art forms, offering a feast for the senses and a testament to the vibrant traditions of Kerala.",
@@ -1832,8 +1848,8 @@
         "district": "Thiruvananthapuram",
         "place": "Attukal Bhagavathy Temple, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.470170034282237,
-          "longitude": 76.95630118655586
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "**Attukal Pongala**, held annually at the **Attukal Bhagavathy Temple** in Thiruvananthapuram, is a globally renowned Hindu festival celebrated primarily by **women**. This massive gathering is often recognized as one of the **largest congregations of women in the world**, typically taking place in February or March. The festival centers around the ritual of **Pongala**, where millions of women gather to cook a sweet rice porridge (Pongala) in earthen pots as an offering to **Goddess Attukal Bhagavathy**. The city streets are filled with devotees meticulously preparing their offerings, creating a unique and devotional atmosphere. The Pongala ritual is performed on a designated day and time, with the smoke from the hundreds of thousands of hearths creating a mesmerizing spectacle. The festival transcends religious boundaries, attracting women from all walks of life who seek blessings and fulfillment, showcasing the power of collective devotion and community spirit.",
@@ -1852,8 +1868,8 @@
         "district": "Kottayam",
         "place": "Thirunakkara Mahadeva Temple, Kottayam",
         "coordinates": {
-          "latitude": 9.5904221,
-          "longitude": 76.5187851
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Thirunakkara Utsavam**, a ten-day grand festival at the **Thirunakkara Mahadeva Temple** in Kottayam, showcases Kerala's rich cultural and religious heritage. Commencing on the first of **Meenam** (March-April), the festival culminates in the **Arattu**, the holy bathing of **Lord Mahadeva**. The Arattu procession is a visual spectacle featuring **nine elaborately decorated elephants**. Drummers and dancers accompany the majestic elephants, attracting devotees and visitors alike. Highlights of the festival include the elephant parades, percussion music, **Kathakali** performance, **Velakali**, and **Mayilattom**. Rooted in history, the temple was built by a Thekkumkoor king who enshrined a Shiva Linga discovered by a Brahmin priest. The Thirunakkara Mahadeva Temple also houses idols of Lord Subramanya, Lord Ganesha, Goddess, and Lord Ayyappa. The festival embodies community, tradition, and cultural pride.",
@@ -1878,8 +1894,8 @@
         "district": "Thrissur",
         "place": "Manimalarkkavu Temple, Velur, Thrissur",
         "coordinates": {
-          "latitude": 10.6473958,
-          "longitude": 76.1610814
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Manimalarkkavu Bharani** festival, celebrated at **Velur Manimalarkkavu Temple** in Thrissur, is a vibrant annual event dedicated to **Goddess Bhagavathy**, taking place during February-March. The temple is unique for its **roofless sanctum sanctorum** (**vatta sreekovil**). Notably, in 1956, the temple was the site of the **Velur Maaru Marakkal (breast-covering) protest**, which ultimately led to the acceptance of women wearing blouses in temple rituals. A major highlight of the festival is the **Kuthira Vela**, a grand spectacle where **effigies of horses** are ceremonially pulled. Accompanied by Kerala’s traditional percussion ensemble, **melam**, the event resonates with energy and devotion. **Karimkali** (a ritual folk art) and **Velichappadu** (the oracle dance) further enhance the spiritual fervor. The festival's rich blend of devotion, tradition, and performing arts makes it a testament to Kerala’s deep-rooted cultural and spiritual heritage.",
@@ -1898,8 +1914,8 @@
         "district": "Kollam",
         "place": "Kottankulangara Devi Temple, Kollam",
         "coordinates": {
-          "latitude": 8.9795268,
-          "longitude": 76.5349758
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kottankulangara Chamayavilakku**, a vibrant and unique festival in Chavara, Kollam, celebrates devotion to **Goddess Bhagavathy** with a captivating ritual. Held annually in **March** (Malayalam month of Meenam), the festival sees thousands of **men dressing up as women**, offering prayers and seeking blessings. The highlight is the **Chamayavilakku procession**, where men adorned in saris, half-saris, or dance costumes carry traditional lamps. This colorful spectacle creates an enchanting atmosphere, accompanied by traditional orchestras. Legend says the tradition originated when cowboys discovered divine power and emulated young girls by dressing as women to offer poojas. The **Kottankulangara Devi Temple** is unique for lacking a roof over its sanctum. The 16-day festival, with main events on the 10th and 11th of Meenam, includes **Kettukazhcha** (decorated structures) and cultural performances, showcasing a unique blend of devotion, tradition, and community spirit.",
@@ -1918,8 +1934,8 @@
         "district": "Pathanamthitta",
         "place": "Puthukulangara Devi Temple, Pathanamthitta",
         "coordinates": {
-          "latitude": 9.263905682227431,
-          "longitude": 76.61564405609401
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Othera Padayani**, a ten-day annual festival at the **Puthukulangara Devi Temple** in Pathanamthitta, celebrates the traditional ritual art form of **Padayani**. The festival, which begins on the Chathayam asterisk and concludes on the Thiruvathira asterisk in **Meenam** (March/April), features dynamic performances and elaborate costumes. A highlight is the **Bhairavi Kolam**, a visually stunning figure constructed from **1001 painted areca nut fronds**. The Padayani performance begins with the rhythmic beating of **Thappu drums**, followed by rituals like **Pula dance** and **Thavadi**. The **Chattathel Kolam**, unique to Othera, features a massive headgear made of 1001 areca nut sheaths. The grand finale, **Valiya Padayani**, attracts thousands of people with a magnificent display of all kolams, including comic interludes like **Paradeshi** and **Kakkarissi**. The festival concludes with the **Pooppada ritual** and the auspicious **Mangala Kolam** dance, beautifully showcasing Kerala's rich culture and traditions.",
@@ -1938,8 +1954,8 @@
         "district": "Kollam",
         "place": "Poruvazhy Malanada Temple, Kollam",
         "coordinates": {
-          "latitude": 9.102697227817734,
-          "longitude": 76.65851335587634
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Malanada Kettukazhcha**, also known as the **Poruvazhy Peruviruthy Malanada Malakkuda Utsavam**, is a grand festival held annually in **March** (on the second Friday of Meenam) at the **Poruvazhy Malanada Temple** in Kollam. This temple is unique for **revering Duryodhana from the Mahabharata** and for **lacking an idol or sanctum sanctorum**. The festival brings the temple to life with the main highlight being the spectacular **Kettukazhcha** structures. These include **Edupu Kala** and **Edupu Kuthira** (effigies of bullocks and horses), some **70-80 feet tall**, offered by believers from seven regions. These massive structures lead grand processions accompanied by traditional percussion. The festival begins with **Kodiyettu** and includes cultural programs like **Kathakali** based on 'Nizhalkuthu'. It is a significant celebration of tradition, culture, and harmony in Kerala's festival calendar.",
@@ -1958,8 +1974,8 @@
         "district": "Kottayam",
         "place": "Elankavu Bhagavathy Temple, Kottayam",
         "coordinates": {
-          "latitude": 9.476647367364404,
-          "longitude": 76.53661356185384
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Attuvela Mahotsavam** at the **Elankavu Bhagavathy Temple** in Kottayam district is a captivating water carnival and one of Kerala's most unique festivals. Held annually in honor of **Goddess Bhagavathy**, this festival is steeped in legend and tradition. The highlight is the **procession of an illuminated replica of the Elankavu Bhagavathy Temple** through the river, symbolizing the welcome given to the **Goddess of Kodungalloor** as she visits her sister, the Goddess of Elankavu. The two-day festival begins at **Attuvela Kadavu**, two kilometers away from the temple. The illuminated temple replica is set afloat on the **Muvattupuzha River**, accompanied by numerous small, decorated canoes and traditional temple percussion music. The sight of the illuminated temple replica and canoes, with reflections dancing on the water, creates an unforgettable experience, blending cultural heritage and natural beauty.",
@@ -1978,8 +1994,8 @@
         "district": "Thrissur",
         "place": "Kodungalloor Bhagavathy Temple, Thrissur",
         "coordinates": {
-          "latitude": 10.22833113234642,
-          "longitude": 76.20290425692467
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Kodungalloor Bharani** festival, held annually at the **Sree Kurumba Bhagavathy Temple** in Thrissur during **March-April**, is a renowned and intense Kerala celebration dedicated to **Goddess Bhadrakali**. The highlight is **Aswathy Kavutheendal**, the day before the Bharani asterism, where red-robed **oracles (velichappad)**, wielding swords, enter a trance and perform ritual dances. They proclaim communion with the Mother Goddess by striking their heads, creating a mystical atmosphere. During Kavutheendal, oracles strike rafters and hurl offerings, signifying devotion to Goddess Bhadrakali, who was born to vanquish the demon **Darika**. The ritual sees the largest gathering of oracles. The Bhadrakali idol, carved from jackfruit wood, holds Darika's severed head. The Kodungalloor Bharani is a raw spectacle of Kerala's heritage, breaking conventional rituals, and attracting thousands to witness its fervor.",
@@ -1998,8 +2014,8 @@
         "district": "Wayanad",
         "place": "Valliyoorkavu Bhagavathy Temple, Wayanad",
         "coordinates": {
-          "latitude": 11.80454940777482,
-          "longitude": 76.03115871015152
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **Valliyoorkavu Festival** is a significant annual event for the **tribal communities of Wayanad**, held at the **Valliyoorkavu Bhagavathy Temple** in the Malayalam month of **Meenam** (March-April). The temple is dedicated to **Goddess Bhagavathy**, worshipped in three forms: **Vana Durga, Bhadrakali, and Jala Durga**. The festival features rich rituals and traditions such as **Kalamezhuthum Pattum** (floor art and song), **Eedum Koorum** (a ritual dance performed by oracles), and **Sopana Nritham** (a dance form). The sacred sword of Valliyooramma is brought from the Palliyara Bhagavathy Temple. The celebrations include a procession known as **Oppana Varavu** and culminate after the **Rudhirakkolam**, a symbolic battle where the Goddess is victorious over the demon Dharikan. A large number of tribals participate in the festival, which is centered around Goddess Durga and draws thousands of devotees.",
@@ -2018,8 +2034,8 @@
         "district": "Idukki",
         "place": "Vagamon, Idukki",
         "coordinates": {
-          "latitude": 9.6885988,
-          "longitude": 76.9068551
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "Kerala's **International Paragliding Festival** is a breathtaking showcase of aerial skill and scenic beauty, drawing participants and spectators from across the globe to locations like **Vagamon** in Idukki. This adventure tourism spectacle transforms the stunning hills and valleys into a playground for paragliding enthusiasts. Experienced paragliders demonstrate incredible aerial acrobatics and precision in competitive displays. For beginners, the festival offers an accessible entry point with certified instructors providing training and **tandem flights**. Kerala's diverse topography provides the perfect backdrop, with ideal wind conditions and panoramic views contributing to a truly unforgettable experience. More than just a sporting event, the festival aligns with Kerala Tourism's strategy to promote adventure activities, fostering cross-cultural exchange and boosting local communities by attracting international visitors.",
@@ -2038,8 +2054,8 @@
         "district": "Thiruvananthapuram",
         "place": "Varkala, Thiruvananthapuram",
         "coordinates": {
-          "latitude": 8.7340434,
-          "longitude": 76.7252855
+          "latitude": null,
+          "longitude": null
         }
       },
       "description": "The **International Surfing Festival** is a high-energy celebration of surf, sea, and sport held annually in the coastal town of **Varkala**, Thiruvananthapuram, typically during **March-April**. The three-day event takes place at **Edava Beach** near Varkala, bringing together wave-riders, spectators, and enthusiasts. Daily competitions are held early morning in categories including **Under-16 and Surfing Open for both men and women**. The festival serves as a platform for both competition and community spirit, with locals and visitors gathering to cheer on participants, creating a festive vibe. The event highlights Varkala’s potential as a dynamic **water sports hub**, giving the beach town a unique identity on the adventure tourism map. The final day includes a colorful closing ceremony where top performers are awarded.",
