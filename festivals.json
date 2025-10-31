@@ -7,7 +7,7 @@
       "startDate": "2025-04-02",
       "endDate": "2025-04-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Sabarimala Dharma Sastha Temple, Pathanamthitta",
@@ -27,7 +27,7 @@
       "startDate": "2025-04-03",
       "endDate": "2025-04-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Nellikulangara Bhagavathy Temple, Palakkad",
@@ -52,7 +52,7 @@
       "startDate": "2025-04-03",
       "endDate": "2025-04-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Malappuram",
         "place": "Thirumandhamkunnu Bhagavathy Temple, Malappuram",
@@ -72,7 +72,7 @@
       "startDate": "2025-04-04",
       "endDate": "2025-04-04",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Kavalappara Aryankavu Bhagavathy Temple, Palakkad",
@@ -92,7 +92,7 @@
       "startDate": "2025-04-06",
       "endDate": "2025-04-06",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Peruvanam Mahadeva Temple, Cherpu, Thrissur",
@@ -112,7 +112,7 @@
       "startDate": "2025-04-08",
       "endDate": "2025-04-08",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Arattupuzha Sree Sastha Temple, Thrissur",
@@ -132,7 +132,7 @@
       "startDate": "2025-04-08",
       "endDate": "2025-04-08",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Pidikkaparambu Lord Shiva Temple, Thrissur",
@@ -172,7 +172,7 @@
       "startDate": "2025-04-10",
       "endDate": "2025-04-10",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
@@ -192,7 +192,7 @@
       "startDate": "2025-04-10",
       "endDate": "2025-04-10",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kozhikode",
         "place": "Lokanarkavu Temple, Kozhikode",
@@ -217,7 +217,7 @@
       "startDate": "2025-04-10",
       "endDate": "2025-04-10",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Sree Parakkat Bhagavathy Temple, Palakkad",
@@ -237,7 +237,7 @@
       "startDate": "2025-04-11",
       "endDate": "2025-04-11",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Shangumugham Beach, Thiruvananthapuram",
@@ -297,7 +297,7 @@
       "startDate": "2025-04-17",
       "endDate": "2025-04-17",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kerala",
@@ -317,7 +317,7 @@
       "startDate": "2025-04-18",
       "endDate": "2025-04-18",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kerala",
@@ -337,7 +337,7 @@
       "startDate": "2025-04-20",
       "endDate": "2025-04-20",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kerala",
@@ -357,7 +357,7 @@
       "startDate": "2025-04-20",
       "endDate": "2025-04-20",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kozhikode",
         "place": "Thali Temple, Kozhikode",
@@ -377,7 +377,7 @@
       "startDate": "2025-04-24",
       "endDate": "2025-04-24",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "St. George Forane Church, Aruvithura, Kottayam",
@@ -397,7 +397,7 @@
       "startDate": "2025-04-27",
       "endDate": "2025-04-27",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "St. Thomas Syro-Malabar Catholic Church, Ernakulam",
@@ -437,7 +437,7 @@
       "startDate": "2025-05-07",
       "endDate": "2025-05-07",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "St. George Church, Alappuzha",
@@ -457,7 +457,7 @@
       "startDate": "2025-05-07",
       "endDate": "2025-05-07",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "St. George Orthodox Church, Kottayam",
@@ -497,7 +497,7 @@
       "startDate": "2025-05-12",
       "endDate": "2025-05-13",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Sree Thootha Bhagavathy Temple, Palakkad",
@@ -517,7 +517,7 @@
       "startDate": "2025-05-24",
       "endDate": "2025-05-24",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Sree Kurumba Temple, Palakkad",
@@ -557,7 +557,7 @@
       "startDate": "2025-06-10",
       "endDate": "2025-06-30",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kannur",
         "place": "Kottiyoor Temple, Kannur",
@@ -617,7 +617,7 @@
       "startDate": "2025-07-16",
       "endDate": "2025-07-16",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kottayam",
@@ -657,7 +657,7 @@
       "startDate": "2025-07-24",
       "endDate": "2025-07-24",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kerala",
         "place": "Kerala",
@@ -677,7 +677,7 @@
       "startDate": "2025-07-28",
       "endDate": "2025-07-28",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Bharananganam",
         "place": "St Alphonsa Shrine Church, Bharananganam",
@@ -697,7 +697,7 @@
       "startDate": "2025-08-01",
       "endDate": "2025-08-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kannur",
         "place": "Madayikkavu, Kannur",
@@ -717,7 +717,7 @@
       "startDate": "2025-08-01",
       "endDate": "2025-08-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Dhanwanthari Temple, Thrissur",
@@ -737,7 +737,7 @@
       "startDate": "2025-08-09",
       "endDate": "2025-08-09",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Punnamada Lake, Alappuzha",
@@ -757,7 +757,7 @@
       "startDate": "2025-08-14",
       "endDate": "2025-08-14",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kottayam",
@@ -777,7 +777,7 @@
       "startDate": "2025-08-26",
       "endDate": "2025-08-26",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Thripunithura, Ernakulam",
@@ -817,7 +817,7 @@
       "startDate": "2025-09-05",
       "endDate": "2025-09-05",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Thrikkakkara Vamana Moorthy Temple, Ernakulam",
@@ -837,7 +837,7 @@
       "startDate": "2025-09-01",
       "endDate": "2025-09-09",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "St. Mary's Church, Kottayam",
@@ -857,7 +857,7 @@
       "startDate": "2025-09-08",
       "endDate": "2025-09-08",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Thrissur",
@@ -877,7 +877,7 @@
       "startDate": "2025-09-09",
       "endDate": "2025-09-09",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Pamba River, Aranmula",
@@ -897,7 +897,7 @@
       "startDate": "2025-09-14",
       "endDate": "2025-09-14",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kerala",
@@ -917,7 +917,7 @@
       "startDate": "2025-09-21",
       "endDate": "2025-09-21",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Palli Bhagavathy Temple, Alappuzha",
@@ -962,7 +962,7 @@
       "startDate": "2025-09-24",
       "endDate": "2025-09-24",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Vallarpadam Basilica, Ernakulam",
@@ -982,7 +982,7 @@
       "startDate": "2025-09-29",
       "endDate": "2025-09-29",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kollam",
         "place": "Kallada River, Kollam",
@@ -1002,7 +1002,7 @@
       "startDate": "2025-10-12",
       "endDate": "2025-10-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Our Lady of Immaculate Conception Church, Thrissur",
@@ -1022,7 +1022,7 @@
       "startDate": "2025-10-16",
       "endDate": "2025-10-16",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Sree Nagaraja Swami Temple, Alappuzha",
@@ -1042,7 +1042,7 @@
       "startDate": "2025-10-18",
       "endDate": "2025-10-18",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Palakkad",
@@ -1082,7 +1082,7 @@
       "startDate": "2025-10-21",
       "endDate": "2025-10-30",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
@@ -1102,7 +1102,7 @@
       "startDate": "2025-11-02",
       "endDate": "2025-11-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Parumala St. Peter’s and St. Paul’s Orthodox Church, Pathanamthitta",
@@ -1122,7 +1122,7 @@
       "startDate": "2025-11-12",
       "endDate": "2025-11-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Mannarassala Sree Nagaraja Temple, Alappuzha",
@@ -1142,7 +1142,7 @@
       "startDate": "2025-11-14",
       "endDate": "2025-11-16",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Sree Viswanatha Swamy Temple, Palakkad",
@@ -1162,7 +1162,7 @@
       "startDate": "2025-11-14",
       "endDate": "2025-11-23",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Madre de Deus Church, Thiruvananthapuram",
@@ -1182,7 +1182,7 @@
       "startDate": "2025-11-17",
       "endDate": "2025-11-17",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kollam",
         "place": "Oachira Parabrahma Temple, Kollam",
@@ -1202,7 +1202,7 @@
       "startDate": "2025-11-26",
       "endDate": "2025-11-26",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Sree Poornathrayeesha Temple, Thrippunithura, Ernakulam",
@@ -1222,7 +1222,7 @@
       "startDate": "2025-12-01",
       "endDate": "2025-12-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Guruvayur Sree Krishna Temple, Thrissur",
@@ -1242,7 +1242,7 @@
       "startDate": "2025-12-12",
       "endDate": "2025-12-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "Vaikom Mahadeva Temple, Kottayam",
@@ -1262,7 +1262,7 @@
       "startDate": "2025-12-21",
       "endDate": "2025-12-21",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "St. Mary’s Church, Pathanamthitta",
@@ -1302,7 +1302,7 @@
       "startDate": "2025-12",
       "endDate": "2025-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Thiruvananthapuram",
@@ -1322,7 +1322,7 @@
       "startDate": "2025-12",
       "endDate": "2025-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Kozhikode",
@@ -1342,7 +1342,7 @@
       "startDate": "2025-12",
       "endDate": "2025-12",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kasaragod",
         "place": "Bekal Beach, Kasaragod",
@@ -1362,7 +1362,7 @@
       "startDate": "2026-01",
       "endDate": "2026-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Beemapally Dargah Shareef, Thiruvananthapuram",
@@ -1382,7 +1382,7 @@
       "startDate": "2026-01",
       "endDate": "2026-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kozhikode",
         "place": "Kozhikode Beach, Kozhikode",
@@ -1402,7 +1402,7 @@
       "startDate": "2026-01-10",
       "endDate": "2026-01-10",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": null,
         "place": "Pathanamthitta",
@@ -1447,7 +1447,7 @@
       "startDate": "2026-01-14",
       "endDate": "2026-01-14",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Kanjiramattom Mosque, Ernakulam",
@@ -1467,7 +1467,7 @@
       "startDate": "2026-01-10",
       "endDate": "2026-01-17",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "St. Andrew's Basilica, Arthunkal, Alappuzha",
@@ -1487,7 +1487,7 @@
       "startDate": "2026-01",
       "endDate": "2026-01",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "St. Mary's Forane Church, Kottayam",
@@ -1507,7 +1507,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Harippad Sree Subramanya Swamy Temple, Alappuzha",
@@ -1527,7 +1527,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kannur",
         "place": "Andalur Kavu, Kannur",
@@ -1547,7 +1547,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Sree Parthasarathy Temple, Pathanamthitta",
@@ -1567,7 +1567,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Machattu Thara Bhagavathy Temple, Vadakkancherry, Thrissur",
@@ -1587,7 +1587,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Pariyanampetta Bhagavathy Temple, Palakkad",
@@ -1607,7 +1607,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Sree Ruthira Mahakalikavu Temple, Thrissur",
@@ -1627,7 +1627,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Mar Ignatius Manjanikkara Dayara, Pathanamthitta",
@@ -1647,7 +1647,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Pamba River banks, Kozhencherry, Pathanamthitta",
@@ -1667,7 +1667,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Kanakakkunnu Palace, Thiruvananthapuram",
@@ -1687,7 +1687,7 @@
       "startDate": "2026-02",
       "endDate": "2026-02",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Koorkancherry Sree Maheswara Temple, Thrissur",
@@ -1707,7 +1707,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Pattambi, Palakkad",
@@ -1727,7 +1727,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Alappuzha",
         "place": "Chettikulangara Bhagavathy Temple, Alappuzha",
@@ -1747,7 +1747,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "Ettumanoor Mahadeva Temple, Kottayam",
@@ -1767,7 +1767,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Guruvayur Sree Krishna Temple, Thrissur",
@@ -1787,7 +1787,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Ernakulam",
         "place": "Chottanikkara Devi Temple, Ernakulam",
@@ -1807,7 +1807,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Palakkad",
         "place": "Chinakkathoor Bhagavathy Temple, Palakkad",
@@ -1827,7 +1827,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Attukal Bhagavathy Temple, Thiruvananthapuram",
@@ -1847,7 +1847,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "Thirunakkara Mahadeva Temple, Kottayam",
@@ -1873,7 +1873,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Manimalarkkavu Temple, Velur, Thrissur",
@@ -1893,7 +1893,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kollam",
         "place": "Kottankulangara Devi Temple, Kollam",
@@ -1913,7 +1913,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Pathanamthitta",
         "place": "Puthukulangara Devi Temple, Pathanamthitta",
@@ -1933,7 +1933,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kollam",
         "place": "Poruvazhy Malanada Temple, Kollam",
@@ -1953,7 +1953,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Kottayam",
         "place": "Elankavu Bhagavathy Temple, Kottayam",
@@ -1973,7 +1973,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thrissur",
         "place": "Kodungalloor Bhagavathy Temple, Thrissur",
@@ -1993,7 +1993,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Wayanad",
         "place": "Valliyoorkavu Bhagavathy Temple, Wayanad",
@@ -2013,7 +2013,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Idukki",
         "place": "Vagamon, Idukki",
@@ -2033,7 +2033,7 @@
       "startDate": "2026-03",
       "endDate": "2026-03",
       "malayalamDate": "",
-      "isMajor": true,
+      "isMajor": false,
       "location": {
         "district": "Thiruvananthapuram",
         "place": "Varkala, Thiruvananthapuram",
